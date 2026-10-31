@@ -1,4 +1,4 @@
-# P7 – Handwritten Sudoku Reader and Solver (Search + CSP + Neural Network)
+# Handwritten Sudoku Reader and Solver (Search + CSP + Neural Network)
 
 A neural network reads a Sudoku written in handwritten MNIST digits. When it misreads a digit and the
 puzzle breaks, **AC-3** detects the contradiction, **search** (UCS / Greedy / A\*) finds the most likely set of
@@ -72,10 +72,3 @@ Useful demo options: `--misreads 0..4`, `--givens 25|30|35`, `--algorithm ucs|gr
 `make_data.py` tries the official LeCun files first. If those hosts are unreachable it falls back to a GitHub mirror of
 the same 60 000 + 10 000 images. Class counts match the official ones. Keep the local copy in `data/raw/`.
 If the first-run files differ from the ones used to produce the shipped `results/`, expect small numerical differences.
-
-## 6. Mapping to the common checklist
-
-1 modules ✔ · 2 `make_data.py` ✔ · 3 `DATA_DICTIONARY.md` ✔ · 4 `train_nn.py` + `results/nn_results.json` ✔ ·
-5 search counters + known-answer test (`tests/test_search.py`) ✔ · 6 CSP switches + counters ✔ · 7 `run_demo.py` ✔ ·
-8 this README ✔ · 9 tests: 51 (≥5 normal, ≥3 edge, ≥2 impossible) ✔ · 10 experiments ✔ ·
-**11 report, 12 presentation, 13 contribution statements + git log: to be written by the team** (see `docs/REPORT_NOTES.md`).
