@@ -1,0 +1,2501 @@
+seed,puzzle,misreads,method,exact,solvable_wrong,unreadable,csp_calls
+0,0,0,no correction,1,0,0,1
+0,0,0,random correction,1,0,0,1
+0,0,0,NN-guided UCS (raw probs),1,0,0,1
+0,0,0,NN-guided UCS (calibrated),1,0,0,1
+0,0,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,1,0,no correction,1,0,0,1
+0,1,0,random correction,1,0,0,1
+0,1,0,NN-guided UCS (raw probs),1,0,0,1
+0,1,0,NN-guided UCS (calibrated),1,0,0,1
+0,1,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,2,0,no correction,1,0,0,1
+0,2,0,random correction,1,0,0,1
+0,2,0,NN-guided UCS (raw probs),1,0,0,1
+0,2,0,NN-guided UCS (calibrated),1,0,0,1
+0,2,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,3,0,no correction,1,0,0,1
+0,3,0,random correction,1,0,0,1
+0,3,0,NN-guided UCS (raw probs),1,0,0,1
+0,3,0,NN-guided UCS (calibrated),1,0,0,1
+0,3,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,4,0,no correction,1,0,0,1
+0,4,0,random correction,1,0,0,1
+0,4,0,NN-guided UCS (raw probs),1,0,0,1
+0,4,0,NN-guided UCS (calibrated),1,0,0,1
+0,4,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,5,0,no correction,1,0,0,1
+0,5,0,random correction,1,0,0,1
+0,5,0,NN-guided UCS (raw probs),1,0,0,1
+0,5,0,NN-guided UCS (calibrated),1,0,0,1
+0,5,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,6,0,no correction,1,0,0,1
+0,6,0,random correction,1,0,0,1
+0,6,0,NN-guided UCS (raw probs),1,0,0,1
+0,6,0,NN-guided UCS (calibrated),1,0,0,1
+0,6,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,7,0,no correction,1,0,0,1
+0,7,0,random correction,1,0,0,1
+0,7,0,NN-guided UCS (raw probs),1,0,0,1
+0,7,0,NN-guided UCS (calibrated),1,0,0,1
+0,7,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,8,0,no correction,1,0,0,1
+0,8,0,random correction,1,0,0,1
+0,8,0,NN-guided UCS (raw probs),1,0,0,1
+0,8,0,NN-guided UCS (calibrated),1,0,0,1
+0,8,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,9,0,no correction,1,0,0,1
+0,9,0,random correction,1,0,0,1
+0,9,0,NN-guided UCS (raw probs),1,0,0,1
+0,9,0,NN-guided UCS (calibrated),1,0,0,1
+0,9,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,10,0,no correction,1,0,0,1
+0,10,0,random correction,1,0,0,1
+0,10,0,NN-guided UCS (raw probs),1,0,0,1
+0,10,0,NN-guided UCS (calibrated),1,0,0,1
+0,10,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,11,0,no correction,1,0,0,1
+0,11,0,random correction,1,0,0,1
+0,11,0,NN-guided UCS (raw probs),1,0,0,1
+0,11,0,NN-guided UCS (calibrated),1,0,0,1
+0,11,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,12,0,no correction,1,0,0,1
+0,12,0,random correction,1,0,0,1
+0,12,0,NN-guided UCS (raw probs),1,0,0,1
+0,12,0,NN-guided UCS (calibrated),1,0,0,1
+0,12,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,13,0,no correction,1,0,0,1
+0,13,0,random correction,1,0,0,1
+0,13,0,NN-guided UCS (raw probs),1,0,0,1
+0,13,0,NN-guided UCS (calibrated),1,0,0,1
+0,13,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,14,0,no correction,1,0,0,1
+0,14,0,random correction,1,0,0,1
+0,14,0,NN-guided UCS (raw probs),1,0,0,1
+0,14,0,NN-guided UCS (calibrated),1,0,0,1
+0,14,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,15,0,no correction,1,0,0,1
+0,15,0,random correction,1,0,0,1
+0,15,0,NN-guided UCS (raw probs),1,0,0,1
+0,15,0,NN-guided UCS (calibrated),1,0,0,1
+0,15,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,16,0,no correction,1,0,0,1
+0,16,0,random correction,1,0,0,1
+0,16,0,NN-guided UCS (raw probs),1,0,0,1
+0,16,0,NN-guided UCS (calibrated),1,0,0,1
+0,16,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,17,0,no correction,1,0,0,1
+0,17,0,random correction,1,0,0,1
+0,17,0,NN-guided UCS (raw probs),1,0,0,1
+0,17,0,NN-guided UCS (calibrated),1,0,0,1
+0,17,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,18,0,no correction,1,0,0,1
+0,18,0,random correction,1,0,0,1
+0,18,0,NN-guided UCS (raw probs),1,0,0,1
+0,18,0,NN-guided UCS (calibrated),1,0,0,1
+0,18,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,19,0,no correction,1,0,0,1
+0,19,0,random correction,1,0,0,1
+0,19,0,NN-guided UCS (raw probs),1,0,0,1
+0,19,0,NN-guided UCS (calibrated),1,0,0,1
+0,19,0,NN-guided UCS (calibrated + unique),1,0,0,1
+0,0,1,no correction,0,0,1,1
+0,0,1,random correction,1,0,0,148
+0,0,1,NN-guided UCS (raw probs),1,0,0,2
+0,0,1,NN-guided UCS (calibrated),1,0,0,2
+0,0,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,1,1,no correction,0,0,1,1
+0,1,1,random correction,0,1,0,7
+0,1,1,NN-guided UCS (raw probs),1,0,0,4
+0,1,1,NN-guided UCS (calibrated),1,0,0,4
+0,1,1,NN-guided UCS (calibrated + unique),1,0,0,4
+0,2,1,no correction,0,0,1,1
+0,2,1,random correction,1,0,0,41
+0,2,1,NN-guided UCS (raw probs),1,0,0,2
+0,2,1,NN-guided UCS (calibrated),1,0,0,2
+0,2,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,3,1,no correction,0,0,1,1
+0,3,1,random correction,0,0,1,300
+0,3,1,NN-guided UCS (raw probs),1,0,0,2
+0,3,1,NN-guided UCS (calibrated),1,0,0,2
+0,3,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,4,1,no correction,0,0,1,1
+0,4,1,random correction,0,0,1,300
+0,4,1,NN-guided UCS (raw probs),1,0,0,3
+0,4,1,NN-guided UCS (calibrated),1,0,0,3
+0,4,1,NN-guided UCS (calibrated + unique),1,0,0,3
+0,5,1,no correction,0,0,1,1
+0,5,1,random correction,0,1,0,5
+0,5,1,NN-guided UCS (raw probs),1,0,0,2
+0,5,1,NN-guided UCS (calibrated),1,0,0,2
+0,5,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,6,1,no correction,0,0,1,1
+0,6,1,random correction,1,0,0,101
+0,6,1,NN-guided UCS (raw probs),1,0,0,22
+0,6,1,NN-guided UCS (calibrated),1,0,0,22
+0,6,1,NN-guided UCS (calibrated + unique),1,0,0,22
+0,7,1,no correction,0,0,1,1
+0,7,1,random correction,0,1,0,244
+0,7,1,NN-guided UCS (raw probs),1,0,0,4
+0,7,1,NN-guided UCS (calibrated),1,0,0,4
+0,7,1,NN-guided UCS (calibrated + unique),1,0,0,4
+0,8,1,no correction,0,0,1,1
+0,8,1,random correction,0,0,1,300
+0,8,1,NN-guided UCS (raw probs),1,0,0,4
+0,8,1,NN-guided UCS (calibrated),1,0,0,4
+0,8,1,NN-guided UCS (calibrated + unique),1,0,0,4
+0,9,1,no correction,0,0,1,1
+0,9,1,random correction,1,0,0,92
+0,9,1,NN-guided UCS (raw probs),1,0,0,13
+0,9,1,NN-guided UCS (calibrated),1,0,0,13
+0,9,1,NN-guided UCS (calibrated + unique),1,0,0,13
+0,10,1,no correction,0,0,1,1
+0,10,1,random correction,1,0,0,63
+0,10,1,NN-guided UCS (raw probs),1,0,0,2
+0,10,1,NN-guided UCS (calibrated),1,0,0,2
+0,10,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,11,1,no correction,0,0,1,1
+0,11,1,random correction,0,1,0,94
+0,11,1,NN-guided UCS (raw probs),1,0,0,5
+0,11,1,NN-guided UCS (calibrated),1,0,0,5
+0,11,1,NN-guided UCS (calibrated + unique),1,0,0,5
+0,12,1,no correction,0,0,1,1
+0,12,1,random correction,0,1,0,131
+0,12,1,NN-guided UCS (raw probs),1,0,0,2
+0,12,1,NN-guided UCS (calibrated),1,0,0,2
+0,12,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,13,1,no correction,0,0,1,1
+0,13,1,random correction,0,0,1,300
+0,13,1,NN-guided UCS (raw probs),1,0,0,13
+0,13,1,NN-guided UCS (calibrated),1,0,0,13
+0,13,1,NN-guided UCS (calibrated + unique),1,0,0,13
+0,14,1,no correction,0,0,1,1
+0,14,1,random correction,0,1,0,19
+0,14,1,NN-guided UCS (raw probs),0,1,0,8
+0,14,1,NN-guided UCS (calibrated),0,1,0,8
+0,14,1,NN-guided UCS (calibrated + unique),0,1,0,8
+0,15,1,no correction,0,0,1,1
+0,15,1,random correction,0,0,1,300
+0,15,1,NN-guided UCS (raw probs),1,0,0,4
+0,15,1,NN-guided UCS (calibrated),1,0,0,4
+0,15,1,NN-guided UCS (calibrated + unique),1,0,0,4
+0,16,1,no correction,0,0,1,1
+0,16,1,random correction,0,1,0,227
+0,16,1,NN-guided UCS (raw probs),1,0,0,2
+0,16,1,NN-guided UCS (calibrated),1,0,0,2
+0,16,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,17,1,no correction,0,0,1,1
+0,17,1,random correction,0,1,0,99
+0,17,1,NN-guided UCS (raw probs),1,0,0,4
+0,17,1,NN-guided UCS (calibrated),1,0,0,4
+0,17,1,NN-guided UCS (calibrated + unique),1,0,0,4
+0,18,1,no correction,0,0,1,1
+0,18,1,random correction,1,0,0,82
+0,18,1,NN-guided UCS (raw probs),1,0,0,3
+0,18,1,NN-guided UCS (calibrated),1,0,0,3
+0,18,1,NN-guided UCS (calibrated + unique),1,0,0,3
+0,19,1,no correction,0,0,1,1
+0,19,1,random correction,0,1,0,21
+0,19,1,NN-guided UCS (raw probs),1,0,0,2
+0,19,1,NN-guided UCS (calibrated),1,0,0,2
+0,19,1,NN-guided UCS (calibrated + unique),1,0,0,2
+0,0,2,no correction,0,0,1,1
+0,0,2,random correction,0,0,1,300
+0,0,2,NN-guided UCS (raw probs),1,0,0,12
+0,0,2,NN-guided UCS (calibrated),1,0,0,12
+0,0,2,NN-guided UCS (calibrated + unique),1,0,0,12
+0,1,2,no correction,0,0,1,1
+0,1,2,random correction,0,0,1,300
+0,1,2,NN-guided UCS (raw probs),1,0,0,17
+0,1,2,NN-guided UCS (calibrated),1,0,0,17
+0,1,2,NN-guided UCS (calibrated + unique),1,0,0,17
+0,2,2,no correction,0,0,1,1
+0,2,2,random correction,0,0,1,300
+0,2,2,NN-guided UCS (raw probs),1,0,0,24
+0,2,2,NN-guided UCS (calibrated),1,0,0,24
+0,2,2,NN-guided UCS (calibrated + unique),1,0,0,24
+0,3,2,no correction,0,0,1,1
+0,3,2,random correction,0,1,0,11
+0,3,2,NN-guided UCS (raw probs),0,1,0,15
+0,3,2,NN-guided UCS (calibrated),0,1,0,15
+0,3,2,NN-guided UCS (calibrated + unique),0,1,0,15
+0,4,2,no correction,0,0,1,1
+0,4,2,random correction,0,0,1,300
+0,4,2,NN-guided UCS (raw probs),1,0,0,5
+0,4,2,NN-guided UCS (calibrated),1,0,0,5
+0,4,2,NN-guided UCS (calibrated + unique),1,0,0,5
+0,5,2,no correction,0,0,1,1
+0,5,2,random correction,0,1,0,27
+0,5,2,NN-guided UCS (raw probs),0,1,0,3
+0,5,2,NN-guided UCS (calibrated),0,1,0,3
+0,5,2,NN-guided UCS (calibrated + unique),0,1,0,3
+0,6,2,no correction,0,0,1,1
+0,6,2,random correction,0,0,1,300
+0,6,2,NN-guided UCS (raw probs),1,0,0,8
+0,6,2,NN-guided UCS (calibrated),1,0,0,8
+0,6,2,NN-guided UCS (calibrated + unique),1,0,0,8
+0,7,2,no correction,0,0,1,1
+0,7,2,random correction,0,1,0,32
+0,7,2,NN-guided UCS (raw probs),0,1,0,3
+0,7,2,NN-guided UCS (calibrated),0,1,0,3
+0,7,2,NN-guided UCS (calibrated + unique),1,0,0,33
+0,8,2,no correction,0,0,1,1
+0,8,2,random correction,0,0,1,300
+0,8,2,NN-guided UCS (raw probs),1,0,0,14
+0,8,2,NN-guided UCS (calibrated),1,0,0,14
+0,8,2,NN-guided UCS (calibrated + unique),1,0,0,14
+0,9,2,no correction,0,0,1,1
+0,9,2,random correction,0,0,1,300
+0,9,2,NN-guided UCS (raw probs),1,0,0,31
+0,9,2,NN-guided UCS (calibrated),1,0,0,31
+0,9,2,NN-guided UCS (calibrated + unique),1,0,0,31
+0,10,2,no correction,0,0,1,1
+0,10,2,random correction,0,1,0,104
+0,10,2,NN-guided UCS (raw probs),0,1,0,9
+0,10,2,NN-guided UCS (calibrated),0,1,0,9
+0,10,2,NN-guided UCS (calibrated + unique),1,0,0,21
+0,11,2,no correction,0,0,1,1
+0,11,2,random correction,0,0,1,300
+0,11,2,NN-guided UCS (raw probs),1,0,0,7
+0,11,2,NN-guided UCS (calibrated),1,0,0,7
+0,11,2,NN-guided UCS (calibrated + unique),1,0,0,7
+0,12,2,no correction,0,0,1,1
+0,12,2,random correction,0,0,1,300
+0,12,2,NN-guided UCS (raw probs),1,0,0,47
+0,12,2,NN-guided UCS (calibrated),1,0,0,47
+0,12,2,NN-guided UCS (calibrated + unique),1,0,0,47
+0,13,2,no correction,0,0,1,1
+0,13,2,random correction,0,1,0,261
+0,13,2,NN-guided UCS (raw probs),0,1,0,3
+0,13,2,NN-guided UCS (calibrated),0,1,0,3
+0,13,2,NN-guided UCS (calibrated + unique),1,0,0,9
+0,14,2,no correction,0,0,1,1
+0,14,2,random correction,0,0,1,300
+0,14,2,NN-guided UCS (raw probs),1,0,0,5
+0,14,2,NN-guided UCS (calibrated),1,0,0,5
+0,14,2,NN-guided UCS (calibrated + unique),1,0,0,5
+0,15,2,no correction,0,0,1,1
+0,15,2,random correction,0,0,1,300
+0,15,2,NN-guided UCS (raw probs),1,0,0,4
+0,15,2,NN-guided UCS (calibrated),1,0,0,4
+0,15,2,NN-guided UCS (calibrated + unique),1,0,0,4
+0,16,2,no correction,0,0,1,1
+0,16,2,random correction,0,1,0,7
+0,16,2,NN-guided UCS (raw probs),0,1,0,2
+0,16,2,NN-guided UCS (calibrated),0,1,0,2
+0,16,2,NN-guided UCS (calibrated + unique),1,0,0,4
+0,17,2,no correction,0,0,1,1
+0,17,2,random correction,0,0,1,300
+0,17,2,NN-guided UCS (raw probs),1,0,0,29
+0,17,2,NN-guided UCS (calibrated),1,0,0,29
+0,17,2,NN-guided UCS (calibrated + unique),1,0,0,29
+0,18,2,no correction,0,0,1,1
+0,18,2,random correction,0,1,0,284
+0,18,2,NN-guided UCS (raw probs),1,0,0,18
+0,18,2,NN-guided UCS (calibrated),1,0,0,18
+0,18,2,NN-guided UCS (calibrated + unique),1,0,0,18
+0,19,2,no correction,0,0,1,1
+0,19,2,random correction,0,0,1,300
+0,19,2,NN-guided UCS (raw probs),1,0,0,6
+0,19,2,NN-guided UCS (calibrated),1,0,0,6
+0,19,2,NN-guided UCS (calibrated + unique),1,0,0,6
+0,0,3,no correction,0,0,1,1
+0,0,3,random correction,0,0,1,300
+0,0,3,NN-guided UCS (raw probs),1,0,0,93
+0,0,3,NN-guided UCS (calibrated),1,0,0,93
+0,0,3,NN-guided UCS (calibrated + unique),1,0,0,93
+0,1,3,no correction,0,0,1,1
+0,1,3,random correction,0,0,1,300
+0,1,3,NN-guided UCS (raw probs),1,0,0,40
+0,1,3,NN-guided UCS (calibrated),1,0,0,40
+0,1,3,NN-guided UCS (calibrated + unique),1,0,0,40
+0,2,3,no correction,0,0,1,1
+0,2,3,random correction,0,0,1,300
+0,2,3,NN-guided UCS (raw probs),1,0,0,223
+0,2,3,NN-guided UCS (calibrated),1,0,0,224
+0,2,3,NN-guided UCS (calibrated + unique),1,0,0,224
+0,3,3,no correction,0,0,1,1
+0,3,3,random correction,0,0,1,300
+0,3,3,NN-guided UCS (raw probs),0,1,0,6
+0,3,3,NN-guided UCS (calibrated),0,1,0,6
+0,3,3,NN-guided UCS (calibrated + unique),0,1,0,13
+0,4,3,no correction,0,0,1,1
+0,4,3,random correction,0,0,1,300
+0,4,3,NN-guided UCS (raw probs),1,0,0,174
+0,4,3,NN-guided UCS (calibrated),1,0,0,174
+0,4,3,NN-guided UCS (calibrated + unique),1,0,0,174
+0,5,3,no correction,0,0,1,1
+0,5,3,random correction,0,1,0,87
+0,5,3,NN-guided UCS (raw probs),0,1,0,5
+0,5,3,NN-guided UCS (calibrated),0,1,0,5
+0,5,3,NN-guided UCS (calibrated + unique),0,1,0,5
+0,6,3,no correction,0,0,1,1
+0,6,3,random correction,0,0,1,300
+0,6,3,NN-guided UCS (raw probs),1,0,0,11
+0,6,3,NN-guided UCS (calibrated),1,0,0,11
+0,6,3,NN-guided UCS (calibrated + unique),1,0,0,11
+0,7,3,no correction,0,0,1,1
+0,7,3,random correction,0,1,0,26
+0,7,3,NN-guided UCS (raw probs),0,1,0,15
+0,7,3,NN-guided UCS (calibrated),0,1,0,15
+0,7,3,NN-guided UCS (calibrated + unique),1,0,0,25
+0,8,3,no correction,0,0,1,1
+0,8,3,random correction,0,1,0,240
+0,8,3,NN-guided UCS (raw probs),0,1,0,6
+0,8,3,NN-guided UCS (calibrated),0,1,0,6
+0,8,3,NN-guided UCS (calibrated + unique),0,1,0,6
+0,9,3,no correction,0,0,1,1
+0,9,3,random correction,0,0,1,300
+0,9,3,NN-guided UCS (raw probs),0,1,0,6
+0,9,3,NN-guided UCS (calibrated),0,1,0,6
+0,9,3,NN-guided UCS (calibrated + unique),1,0,0,735
+0,10,3,no correction,0,0,1,1
+0,10,3,random correction,0,0,1,300
+0,10,3,NN-guided UCS (raw probs),1,0,0,15
+0,10,3,NN-guided UCS (calibrated),1,0,0,15
+0,10,3,NN-guided UCS (calibrated + unique),1,0,0,15
+0,11,3,no correction,0,0,1,1
+0,11,3,random correction,0,0,1,300
+0,11,3,NN-guided UCS (raw probs),1,0,0,63
+0,11,3,NN-guided UCS (calibrated),1,0,0,63
+0,11,3,NN-guided UCS (calibrated + unique),1,0,0,63
+0,12,3,no correction,0,0,1,1
+0,12,3,random correction,0,0,1,300
+0,12,3,NN-guided UCS (raw probs),1,0,0,42
+0,12,3,NN-guided UCS (calibrated),1,0,0,42
+0,12,3,NN-guided UCS (calibrated + unique),1,0,0,42
+0,13,3,no correction,0,0,1,1
+0,13,3,random correction,0,0,1,300
+0,13,3,NN-guided UCS (raw probs),0,1,0,90
+0,13,3,NN-guided UCS (calibrated),0,1,0,90
+0,13,3,NN-guided UCS (calibrated + unique),0,1,0,137
+0,14,3,no correction,0,0,1,1
+0,14,3,random correction,0,1,0,190
+0,14,3,NN-guided UCS (raw probs),1,0,0,30
+0,14,3,NN-guided UCS (calibrated),1,0,0,30
+0,14,3,NN-guided UCS (calibrated + unique),1,0,0,30
+0,15,3,no correction,0,0,1,1
+0,15,3,random correction,0,1,0,210
+0,15,3,NN-guided UCS (raw probs),0,1,0,73
+0,15,3,NN-guided UCS (calibrated),0,1,0,74
+0,15,3,NN-guided UCS (calibrated + unique),0,1,0,74
+0,16,3,no correction,0,0,1,1
+0,16,3,random correction,0,0,1,300
+0,16,3,NN-guided UCS (raw probs),0,1,0,68
+0,16,3,NN-guided UCS (calibrated),0,1,0,68
+0,16,3,NN-guided UCS (calibrated + unique),1,0,0,115
+0,17,3,no correction,0,0,1,1
+0,17,3,random correction,0,0,1,300
+0,17,3,NN-guided UCS (raw probs),1,0,0,33
+0,17,3,NN-guided UCS (calibrated),1,0,0,33
+0,17,3,NN-guided UCS (calibrated + unique),1,0,0,33
+0,18,3,no correction,0,0,1,1
+0,18,3,random correction,0,0,1,300
+0,18,3,NN-guided UCS (raw probs),1,0,0,12
+0,18,3,NN-guided UCS (calibrated),1,0,0,12
+0,18,3,NN-guided UCS (calibrated + unique),1,0,0,12
+0,19,3,no correction,0,0,1,1
+0,19,3,random correction,0,1,0,162
+0,19,3,NN-guided UCS (raw probs),1,0,0,64
+0,19,3,NN-guided UCS (calibrated),1,0,0,64
+0,19,3,NN-guided UCS (calibrated + unique),1,0,0,64
+0,0,4,no correction,0,0,1,1
+0,0,4,random correction,0,0,1,300
+0,0,4,NN-guided UCS (raw probs),0,1,0,43
+0,0,4,NN-guided UCS (calibrated),0,1,0,43
+0,0,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,1,4,no correction,0,0,1,1
+0,1,4,random correction,0,0,1,300
+0,1,4,NN-guided UCS (raw probs),0,1,0,16
+0,1,4,NN-guided UCS (calibrated),0,1,0,16
+0,1,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,2,4,no correction,0,0,1,1
+0,2,4,random correction,0,0,1,300
+0,2,4,NN-guided UCS (raw probs),0,1,0,80
+0,2,4,NN-guided UCS (calibrated),0,1,0,80
+0,2,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,3,4,no correction,0,0,1,1
+0,3,4,random correction,0,0,1,300
+0,3,4,NN-guided UCS (raw probs),0,1,0,33
+0,3,4,NN-guided UCS (calibrated),0,1,0,33
+0,3,4,NN-guided UCS (calibrated + unique),0,1,0,33
+0,4,4,no correction,0,0,1,1
+0,4,4,random correction,0,0,1,300
+0,4,4,NN-guided UCS (raw probs),0,1,0,58
+0,4,4,NN-guided UCS (calibrated),0,1,0,58
+0,4,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,5,4,no correction,0,0,1,1
+0,5,4,random correction,0,0,1,300
+0,5,4,NN-guided UCS (raw probs),0,0,1,1161
+0,5,4,NN-guided UCS (calibrated),0,0,1,1161
+0,5,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,6,4,no correction,0,0,1,1
+0,6,4,random correction,0,0,1,300
+0,6,4,NN-guided UCS (raw probs),0,0,1,1161
+0,6,4,NN-guided UCS (calibrated),0,0,1,1161
+0,6,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,7,4,no correction,0,0,1,1
+0,7,4,random correction,0,0,1,300
+0,7,4,NN-guided UCS (raw probs),0,1,0,4
+0,7,4,NN-guided UCS (calibrated),0,1,0,4
+0,7,4,NN-guided UCS (calibrated + unique),0,1,0,8
+0,8,4,no correction,0,0,1,1
+0,8,4,random correction,0,1,0,23
+0,8,4,NN-guided UCS (raw probs),0,1,0,11
+0,8,4,NN-guided UCS (calibrated),0,1,0,11
+0,8,4,NN-guided UCS (calibrated + unique),0,1,0,64
+0,9,4,no correction,0,0,1,1
+0,9,4,random correction,0,0,1,300
+0,9,4,NN-guided UCS (raw probs),0,1,0,14
+0,9,4,NN-guided UCS (calibrated),0,1,0,14
+0,9,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,10,4,no correction,0,0,1,1
+0,10,4,random correction,0,0,1,300
+0,10,4,NN-guided UCS (raw probs),0,0,1,1161
+0,10,4,NN-guided UCS (calibrated),0,0,1,1161
+0,10,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,11,4,no correction,0,0,1,1
+0,11,4,random correction,0,0,1,300
+0,11,4,NN-guided UCS (raw probs),0,0,1,1161
+0,11,4,NN-guided UCS (calibrated),0,0,1,1161
+0,11,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,12,4,no correction,0,0,1,1
+0,12,4,random correction,0,0,1,300
+0,12,4,NN-guided UCS (raw probs),0,0,1,1161
+0,12,4,NN-guided UCS (calibrated),0,0,1,1161
+0,12,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,13,4,no correction,0,0,1,1
+0,13,4,random correction,0,0,1,300
+0,13,4,NN-guided UCS (raw probs),0,1,0,97
+0,13,4,NN-guided UCS (calibrated),0,1,0,97
+0,13,4,NN-guided UCS (calibrated + unique),0,1,0,97
+0,14,4,no correction,0,0,1,1
+0,14,4,random correction,0,1,0,25
+0,14,4,NN-guided UCS (raw probs),0,1,0,5
+0,14,4,NN-guided UCS (calibrated),0,1,0,5
+0,14,4,NN-guided UCS (calibrated + unique),0,1,0,652
+0,15,4,no correction,0,0,1,1
+0,15,4,random correction,0,0,1,300
+0,15,4,NN-guided UCS (raw probs),0,1,0,464
+0,15,4,NN-guided UCS (calibrated),0,1,0,464
+0,15,4,NN-guided UCS (calibrated + unique),0,1,0,464
+0,16,4,no correction,0,0,1,1
+0,16,4,random correction,0,0,1,300
+0,16,4,NN-guided UCS (raw probs),0,1,0,24
+0,16,4,NN-guided UCS (calibrated),0,1,0,24
+0,16,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,17,4,no correction,0,0,1,1
+0,17,4,random correction,0,0,1,300
+0,17,4,NN-guided UCS (raw probs),0,1,0,128
+0,17,4,NN-guided UCS (calibrated),0,1,0,128
+0,17,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+0,18,4,no correction,0,0,1,1
+0,18,4,random correction,0,0,1,300
+0,18,4,NN-guided UCS (raw probs),0,1,0,161
+0,18,4,NN-guided UCS (calibrated),0,1,0,161
+0,18,4,NN-guided UCS (calibrated + unique),0,1,0,161
+0,19,4,no correction,0,0,1,1
+0,19,4,random correction,0,0,1,300
+0,19,4,NN-guided UCS (raw probs),0,1,0,37
+0,19,4,NN-guided UCS (calibrated),0,1,0,37
+0,19,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,0,0,no correction,1,0,0,1
+1,0,0,random correction,1,0,0,1
+1,0,0,NN-guided UCS (raw probs),1,0,0,1
+1,0,0,NN-guided UCS (calibrated),1,0,0,1
+1,0,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,1,0,no correction,1,0,0,1
+1,1,0,random correction,1,0,0,1
+1,1,0,NN-guided UCS (raw probs),1,0,0,1
+1,1,0,NN-guided UCS (calibrated),1,0,0,1
+1,1,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,2,0,no correction,1,0,0,1
+1,2,0,random correction,1,0,0,1
+1,2,0,NN-guided UCS (raw probs),1,0,0,1
+1,2,0,NN-guided UCS (calibrated),1,0,0,1
+1,2,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,3,0,no correction,1,0,0,1
+1,3,0,random correction,1,0,0,1
+1,3,0,NN-guided UCS (raw probs),1,0,0,1
+1,3,0,NN-guided UCS (calibrated),1,0,0,1
+1,3,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,4,0,no correction,1,0,0,1
+1,4,0,random correction,1,0,0,1
+1,4,0,NN-guided UCS (raw probs),1,0,0,1
+1,4,0,NN-guided UCS (calibrated),1,0,0,1
+1,4,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,5,0,no correction,1,0,0,1
+1,5,0,random correction,1,0,0,1
+1,5,0,NN-guided UCS (raw probs),1,0,0,1
+1,5,0,NN-guided UCS (calibrated),1,0,0,1
+1,5,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,6,0,no correction,1,0,0,1
+1,6,0,random correction,1,0,0,1
+1,6,0,NN-guided UCS (raw probs),1,0,0,1
+1,6,0,NN-guided UCS (calibrated),1,0,0,1
+1,6,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,7,0,no correction,1,0,0,1
+1,7,0,random correction,1,0,0,1
+1,7,0,NN-guided UCS (raw probs),1,0,0,1
+1,7,0,NN-guided UCS (calibrated),1,0,0,1
+1,7,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,8,0,no correction,1,0,0,1
+1,8,0,random correction,1,0,0,1
+1,8,0,NN-guided UCS (raw probs),1,0,0,1
+1,8,0,NN-guided UCS (calibrated),1,0,0,1
+1,8,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,9,0,no correction,1,0,0,1
+1,9,0,random correction,1,0,0,1
+1,9,0,NN-guided UCS (raw probs),1,0,0,1
+1,9,0,NN-guided UCS (calibrated),1,0,0,1
+1,9,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,10,0,no correction,1,0,0,1
+1,10,0,random correction,1,0,0,1
+1,10,0,NN-guided UCS (raw probs),1,0,0,1
+1,10,0,NN-guided UCS (calibrated),1,0,0,1
+1,10,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,11,0,no correction,1,0,0,1
+1,11,0,random correction,1,0,0,1
+1,11,0,NN-guided UCS (raw probs),1,0,0,1
+1,11,0,NN-guided UCS (calibrated),1,0,0,1
+1,11,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,12,0,no correction,1,0,0,1
+1,12,0,random correction,1,0,0,1
+1,12,0,NN-guided UCS (raw probs),1,0,0,1
+1,12,0,NN-guided UCS (calibrated),1,0,0,1
+1,12,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,13,0,no correction,1,0,0,1
+1,13,0,random correction,1,0,0,1
+1,13,0,NN-guided UCS (raw probs),1,0,0,1
+1,13,0,NN-guided UCS (calibrated),1,0,0,1
+1,13,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,14,0,no correction,1,0,0,1
+1,14,0,random correction,1,0,0,1
+1,14,0,NN-guided UCS (raw probs),1,0,0,1
+1,14,0,NN-guided UCS (calibrated),1,0,0,1
+1,14,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,15,0,no correction,1,0,0,1
+1,15,0,random correction,1,0,0,1
+1,15,0,NN-guided UCS (raw probs),1,0,0,1
+1,15,0,NN-guided UCS (calibrated),1,0,0,1
+1,15,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,16,0,no correction,1,0,0,1
+1,16,0,random correction,1,0,0,1
+1,16,0,NN-guided UCS (raw probs),1,0,0,1
+1,16,0,NN-guided UCS (calibrated),1,0,0,1
+1,16,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,17,0,no correction,1,0,0,1
+1,17,0,random correction,1,0,0,1
+1,17,0,NN-guided UCS (raw probs),1,0,0,1
+1,17,0,NN-guided UCS (calibrated),1,0,0,1
+1,17,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,18,0,no correction,1,0,0,1
+1,18,0,random correction,1,0,0,1
+1,18,0,NN-guided UCS (raw probs),1,0,0,1
+1,18,0,NN-guided UCS (calibrated),1,0,0,1
+1,18,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,19,0,no correction,1,0,0,1
+1,19,0,random correction,1,0,0,1
+1,19,0,NN-guided UCS (raw probs),1,0,0,1
+1,19,0,NN-guided UCS (calibrated),1,0,0,1
+1,19,0,NN-guided UCS (calibrated + unique),1,0,0,1
+1,0,1,no correction,0,1,0,1
+1,0,1,random correction,0,1,0,1
+1,0,1,NN-guided UCS (raw probs),0,1,0,1
+1,0,1,NN-guided UCS (calibrated),0,1,0,1
+1,0,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,1,1,no correction,0,0,1,1
+1,1,1,random correction,0,1,0,262
+1,1,1,NN-guided UCS (raw probs),1,0,0,4
+1,1,1,NN-guided UCS (calibrated),1,0,0,4
+1,1,1,NN-guided UCS (calibrated + unique),1,0,0,4
+1,2,1,no correction,0,0,1,1
+1,2,1,random correction,0,1,0,160
+1,2,1,NN-guided UCS (raw probs),1,0,0,2
+1,2,1,NN-guided UCS (calibrated),1,0,0,2
+1,2,1,NN-guided UCS (calibrated + unique),1,0,0,2
+1,3,1,no correction,0,0,1,1
+1,3,1,random correction,1,0,0,128
+1,3,1,NN-guided UCS (raw probs),1,0,0,3
+1,3,1,NN-guided UCS (calibrated),1,0,0,3
+1,3,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,4,1,no correction,0,0,1,1
+1,4,1,random correction,0,1,0,29
+1,4,1,NN-guided UCS (raw probs),1,0,0,5
+1,4,1,NN-guided UCS (calibrated),1,0,0,5
+1,4,1,NN-guided UCS (calibrated + unique),1,0,0,5
+1,5,1,no correction,0,0,1,1
+1,5,1,random correction,0,1,0,17
+1,5,1,NN-guided UCS (raw probs),0,1,0,2
+1,5,1,NN-guided UCS (calibrated),0,1,0,2
+1,5,1,NN-guided UCS (calibrated + unique),0,1,0,2
+1,6,1,no correction,0,0,1,1
+1,6,1,random correction,1,0,0,38
+1,6,1,NN-guided UCS (raw probs),1,0,0,7
+1,6,1,NN-guided UCS (calibrated),1,0,0,7
+1,6,1,NN-guided UCS (calibrated + unique),1,0,0,7
+1,7,1,no correction,0,1,0,1
+1,7,1,random correction,0,1,0,1
+1,7,1,NN-guided UCS (raw probs),0,1,0,1
+1,7,1,NN-guided UCS (calibrated),0,1,0,1
+1,7,1,NN-guided UCS (calibrated + unique),1,0,0,6
+1,8,1,no correction,0,0,1,1
+1,8,1,random correction,1,0,0,6
+1,8,1,NN-guided UCS (raw probs),1,0,0,3
+1,8,1,NN-guided UCS (calibrated),1,0,0,3
+1,8,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,9,1,no correction,0,0,1,1
+1,9,1,random correction,0,0,1,300
+1,9,1,NN-guided UCS (raw probs),1,0,0,3
+1,9,1,NN-guided UCS (calibrated),1,0,0,3
+1,9,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,10,1,no correction,0,0,1,1
+1,10,1,random correction,0,0,1,300
+1,10,1,NN-guided UCS (raw probs),1,0,0,3
+1,10,1,NN-guided UCS (calibrated),1,0,0,3
+1,10,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,11,1,no correction,0,0,1,1
+1,11,1,random correction,0,1,0,41
+1,11,1,NN-guided UCS (raw probs),1,0,0,18
+1,11,1,NN-guided UCS (calibrated),1,0,0,17
+1,11,1,NN-guided UCS (calibrated + unique),1,0,0,17
+1,12,1,no correction,0,0,1,1
+1,12,1,random correction,1,0,0,38
+1,12,1,NN-guided UCS (raw probs),1,0,0,2
+1,12,1,NN-guided UCS (calibrated),1,0,0,2
+1,12,1,NN-guided UCS (calibrated + unique),1,0,0,2
+1,13,1,no correction,0,0,1,1
+1,13,1,random correction,0,0,1,300
+1,13,1,NN-guided UCS (raw probs),1,0,0,2
+1,13,1,NN-guided UCS (calibrated),1,0,0,2
+1,13,1,NN-guided UCS (calibrated + unique),1,0,0,2
+1,14,1,no correction,0,1,0,1
+1,14,1,random correction,0,1,0,1
+1,14,1,NN-guided UCS (raw probs),0,1,0,1
+1,14,1,NN-guided UCS (calibrated),0,1,0,1
+1,14,1,NN-guided UCS (calibrated + unique),0,1,0,1
+1,15,1,no correction,0,0,1,1
+1,15,1,random correction,0,1,0,62
+1,15,1,NN-guided UCS (raw probs),1,0,0,3
+1,15,1,NN-guided UCS (calibrated),1,0,0,3
+1,15,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,16,1,no correction,0,0,1,1
+1,16,1,random correction,1,0,0,90
+1,16,1,NN-guided UCS (raw probs),1,0,0,2
+1,16,1,NN-guided UCS (calibrated),1,0,0,2
+1,16,1,NN-guided UCS (calibrated + unique),1,0,0,2
+1,17,1,no correction,0,0,1,1
+1,17,1,random correction,1,0,0,38
+1,17,1,NN-guided UCS (raw probs),1,0,0,2
+1,17,1,NN-guided UCS (calibrated),1,0,0,2
+1,17,1,NN-guided UCS (calibrated + unique),1,0,0,2
+1,18,1,no correction,0,0,1,1
+1,18,1,random correction,0,1,0,190
+1,18,1,NN-guided UCS (raw probs),1,0,0,5
+1,18,1,NN-guided UCS (calibrated),1,0,0,5
+1,18,1,NN-guided UCS (calibrated + unique),1,0,0,5
+1,19,1,no correction,0,0,1,1
+1,19,1,random correction,0,1,0,111
+1,19,1,NN-guided UCS (raw probs),1,0,0,3
+1,19,1,NN-guided UCS (calibrated),1,0,0,3
+1,19,1,NN-guided UCS (calibrated + unique),1,0,0,3
+1,0,2,no correction,0,0,1,1
+1,0,2,random correction,0,0,1,300
+1,0,2,NN-guided UCS (raw probs),1,0,0,12
+1,0,2,NN-guided UCS (calibrated),1,0,0,12
+1,0,2,NN-guided UCS (calibrated + unique),1,0,0,12
+1,1,2,no correction,0,0,1,1
+1,1,2,random correction,0,0,1,300
+1,1,2,NN-guided UCS (raw probs),1,0,0,18
+1,1,2,NN-guided UCS (calibrated),1,0,0,18
+1,1,2,NN-guided UCS (calibrated + unique),1,0,0,18
+1,2,2,no correction,0,0,1,1
+1,2,2,random correction,0,0,1,300
+1,2,2,NN-guided UCS (raw probs),1,0,0,6
+1,2,2,NN-guided UCS (calibrated),1,0,0,6
+1,2,2,NN-guided UCS (calibrated + unique),1,0,0,6
+1,3,2,no correction,0,0,1,1
+1,3,2,random correction,0,0,1,300
+1,3,2,NN-guided UCS (raw probs),0,1,0,3
+1,3,2,NN-guided UCS (calibrated),0,1,0,3
+1,3,2,NN-guided UCS (calibrated + unique),1,0,0,4
+1,4,2,no correction,0,0,1,1
+1,4,2,random correction,0,1,0,168
+1,4,2,NN-guided UCS (raw probs),1,0,0,8
+1,4,2,NN-guided UCS (calibrated),1,0,0,8
+1,4,2,NN-guided UCS (calibrated + unique),1,0,0,8
+1,5,2,no correction,0,0,1,1
+1,5,2,random correction,0,0,1,300
+1,5,2,NN-guided UCS (raw probs),1,0,0,6
+1,5,2,NN-guided UCS (calibrated),1,0,0,6
+1,5,2,NN-guided UCS (calibrated + unique),1,0,0,6
+1,6,2,no correction,0,0,1,1
+1,6,2,random correction,0,0,1,300
+1,6,2,NN-guided UCS (raw probs),1,0,0,62
+1,6,2,NN-guided UCS (calibrated),1,0,0,62
+1,6,2,NN-guided UCS (calibrated + unique),1,0,0,62
+1,7,2,no correction,0,0,1,1
+1,7,2,random correction,0,0,1,300
+1,7,2,NN-guided UCS (raw probs),1,0,0,5
+1,7,2,NN-guided UCS (calibrated),1,0,0,5
+1,7,2,NN-guided UCS (calibrated + unique),1,0,0,5
+1,8,2,no correction,0,0,1,1
+1,8,2,random correction,0,0,1,300
+1,8,2,NN-guided UCS (raw probs),1,0,0,8
+1,8,2,NN-guided UCS (calibrated),1,0,0,8
+1,8,2,NN-guided UCS (calibrated + unique),1,0,0,8
+1,9,2,no correction,0,0,1,1
+1,9,2,random correction,0,0,1,300
+1,9,2,NN-guided UCS (raw probs),1,0,0,7
+1,9,2,NN-guided UCS (calibrated),1,0,0,7
+1,9,2,NN-guided UCS (calibrated + unique),1,0,0,7
+1,10,2,no correction,0,0,1,1
+1,10,2,random correction,0,1,0,261
+1,10,2,NN-guided UCS (raw probs),1,0,0,18
+1,10,2,NN-guided UCS (calibrated),1,0,0,18
+1,10,2,NN-guided UCS (calibrated + unique),1,0,0,18
+1,11,2,no correction,0,0,1,1
+1,11,2,random correction,0,1,0,111
+1,11,2,NN-guided UCS (raw probs),0,1,0,9
+1,11,2,NN-guided UCS (calibrated),0,1,0,9
+1,11,2,NN-guided UCS (calibrated + unique),0,1,0,9
+1,12,2,no correction,0,0,1,1
+1,12,2,random correction,0,0,1,300
+1,12,2,NN-guided UCS (raw probs),0,1,0,2
+1,12,2,NN-guided UCS (calibrated),0,1,0,2
+1,12,2,NN-guided UCS (calibrated + unique),0,1,0,2
+1,13,2,no correction,0,0,1,1
+1,13,2,random correction,0,0,1,300
+1,13,2,NN-guided UCS (raw probs),1,0,0,7
+1,13,2,NN-guided UCS (calibrated),1,0,0,7
+1,13,2,NN-guided UCS (calibrated + unique),1,0,0,7
+1,14,2,no correction,0,0,1,1
+1,14,2,random correction,0,0,1,300
+1,14,2,NN-guided UCS (raw probs),1,0,0,9
+1,14,2,NN-guided UCS (calibrated),1,0,0,9
+1,14,2,NN-guided UCS (calibrated + unique),1,0,0,9
+1,15,2,no correction,0,0,1,1
+1,15,2,random correction,0,0,1,300
+1,15,2,NN-guided UCS (raw probs),1,0,0,4
+1,15,2,NN-guided UCS (calibrated),1,0,0,4
+1,15,2,NN-guided UCS (calibrated + unique),1,0,0,4
+1,16,2,no correction,0,0,1,1
+1,16,2,random correction,0,0,1,300
+1,16,2,NN-guided UCS (raw probs),1,0,0,6
+1,16,2,NN-guided UCS (calibrated),1,0,0,6
+1,16,2,NN-guided UCS (calibrated + unique),1,0,0,6
+1,17,2,no correction,0,0,1,1
+1,17,2,random correction,0,0,1,300
+1,17,2,NN-guided UCS (raw probs),1,0,0,6
+1,17,2,NN-guided UCS (calibrated),1,0,0,6
+1,17,2,NN-guided UCS (calibrated + unique),1,0,0,6
+1,18,2,no correction,0,0,1,1
+1,18,2,random correction,0,0,1,300
+1,18,2,NN-guided UCS (raw probs),1,0,0,4
+1,18,2,NN-guided UCS (calibrated),1,0,0,4
+1,18,2,NN-guided UCS (calibrated + unique),1,0,0,4
+1,19,2,no correction,0,0,1,1
+1,19,2,random correction,0,1,0,271
+1,19,2,NN-guided UCS (raw probs),0,1,0,2
+1,19,2,NN-guided UCS (calibrated),0,1,0,2
+1,19,2,NN-guided UCS (calibrated + unique),1,0,0,7
+1,0,3,no correction,0,0,1,1
+1,0,3,random correction,0,0,1,300
+1,0,3,NN-guided UCS (raw probs),0,1,0,27
+1,0,3,NN-guided UCS (calibrated),0,1,0,27
+1,0,3,NN-guided UCS (calibrated + unique),1,0,0,84
+1,1,3,no correction,0,0,1,1
+1,1,3,random correction,0,0,1,300
+1,1,3,NN-guided UCS (raw probs),1,0,0,15
+1,1,3,NN-guided UCS (calibrated),1,0,0,15
+1,1,3,NN-guided UCS (calibrated + unique),1,0,0,15
+1,2,3,no correction,0,0,1,1
+1,2,3,random correction,0,1,0,20
+1,2,3,NN-guided UCS (raw probs),0,1,0,24
+1,2,3,NN-guided UCS (calibrated),0,1,0,24
+1,2,3,NN-guided UCS (calibrated + unique),1,0,0,118
+1,3,3,no correction,0,0,1,1
+1,3,3,random correction,0,0,1,300
+1,3,3,NN-guided UCS (raw probs),1,0,0,117
+1,3,3,NN-guided UCS (calibrated),1,0,0,117
+1,3,3,NN-guided UCS (calibrated + unique),1,0,0,117
+1,4,3,no correction,0,0,1,1
+1,4,3,random correction,0,0,1,300
+1,4,3,NN-guided UCS (raw probs),0,1,0,10
+1,4,3,NN-guided UCS (calibrated),0,1,0,10
+1,4,3,NN-guided UCS (calibrated + unique),1,0,0,93
+1,5,3,no correction,0,0,1,1
+1,5,3,random correction,0,0,1,300
+1,5,3,NN-guided UCS (raw probs),1,0,0,103
+1,5,3,NN-guided UCS (calibrated),1,0,0,103
+1,5,3,NN-guided UCS (calibrated + unique),1,0,0,103
+1,6,3,no correction,0,0,1,1
+1,6,3,random correction,0,0,1,300
+1,6,3,NN-guided UCS (raw probs),1,0,0,20
+1,6,3,NN-guided UCS (calibrated),1,0,0,20
+1,6,3,NN-guided UCS (calibrated + unique),1,0,0,20
+1,7,3,no correction,0,0,1,1
+1,7,3,random correction,0,0,1,300
+1,7,3,NN-guided UCS (raw probs),1,0,0,63
+1,7,3,NN-guided UCS (calibrated),1,0,0,63
+1,7,3,NN-guided UCS (calibrated + unique),1,0,0,63
+1,8,3,no correction,0,0,1,1
+1,8,3,random correction,0,0,1,300
+1,8,3,NN-guided UCS (raw probs),1,0,0,9
+1,8,3,NN-guided UCS (calibrated),1,0,0,9
+1,8,3,NN-guided UCS (calibrated + unique),1,0,0,9
+1,9,3,no correction,0,0,1,1
+1,9,3,random correction,0,0,1,300
+1,9,3,NN-guided UCS (raw probs),1,0,0,63
+1,9,3,NN-guided UCS (calibrated),1,0,0,63
+1,9,3,NN-guided UCS (calibrated + unique),1,0,0,63
+1,10,3,no correction,0,0,1,1
+1,10,3,random correction,0,0,1,300
+1,10,3,NN-guided UCS (raw probs),0,1,0,12
+1,10,3,NN-guided UCS (calibrated),0,1,0,12
+1,10,3,NN-guided UCS (calibrated + unique),0,1,0,12
+1,11,3,no correction,0,0,1,1
+1,11,3,random correction,0,1,0,11
+1,11,3,NN-guided UCS (raw probs),0,1,0,52
+1,11,3,NN-guided UCS (calibrated),0,1,0,52
+1,11,3,NN-guided UCS (calibrated + unique),1,0,0,66
+1,12,3,no correction,0,0,1,1
+1,12,3,random correction,0,1,0,192
+1,12,3,NN-guided UCS (raw probs),0,1,0,198
+1,12,3,NN-guided UCS (calibrated),0,1,0,198
+1,12,3,NN-guided UCS (calibrated + unique),0,1,0,198
+1,13,3,no correction,0,0,1,1
+1,13,3,random correction,0,0,1,300
+1,13,3,NN-guided UCS (raw probs),0,1,0,22
+1,13,3,NN-guided UCS (calibrated),0,1,0,22
+1,13,3,NN-guided UCS (calibrated + unique),0,1,0,22
+1,14,3,no correction,0,0,1,1
+1,14,3,random correction,0,0,1,300
+1,14,3,NN-guided UCS (raw probs),1,0,0,31
+1,14,3,NN-guided UCS (calibrated),1,0,0,31
+1,14,3,NN-guided UCS (calibrated + unique),1,0,0,31
+1,15,3,no correction,0,0,1,1
+1,15,3,random correction,0,0,1,300
+1,15,3,NN-guided UCS (raw probs),0,1,0,18
+1,15,3,NN-guided UCS (calibrated),0,1,0,18
+1,15,3,NN-guided UCS (calibrated + unique),1,0,0,20
+1,16,3,no correction,0,0,1,1
+1,16,3,random correction,0,1,0,262
+1,16,3,NN-guided UCS (raw probs),0,1,0,2
+1,16,3,NN-guided UCS (calibrated),0,1,0,2
+1,16,3,NN-guided UCS (calibrated + unique),0,1,0,22
+1,17,3,no correction,0,0,1,1
+1,17,3,random correction,0,0,1,300
+1,17,3,NN-guided UCS (raw probs),0,1,0,23
+1,17,3,NN-guided UCS (calibrated),0,1,0,23
+1,17,3,NN-guided UCS (calibrated + unique),0,1,0,23
+1,18,3,no correction,0,0,1,1
+1,18,3,random correction,0,0,1,300
+1,18,3,NN-guided UCS (raw probs),1,0,0,21
+1,18,3,NN-guided UCS (calibrated),1,0,0,21
+1,18,3,NN-guided UCS (calibrated + unique),1,0,0,21
+1,19,3,no correction,0,0,1,1
+1,19,3,random correction,0,0,1,300
+1,19,3,NN-guided UCS (raw probs),0,1,0,15
+1,19,3,NN-guided UCS (calibrated),0,1,0,15
+1,19,3,NN-guided UCS (calibrated + unique),1,0,0,23
+1,0,4,no correction,0,0,1,1
+1,0,4,random correction,0,0,1,300
+1,0,4,NN-guided UCS (raw probs),0,1,0,12
+1,0,4,NN-guided UCS (calibrated),0,1,0,12
+1,0,4,NN-guided UCS (calibrated + unique),0,1,0,12
+1,1,4,no correction,0,0,1,1
+1,1,4,random correction,0,0,1,300
+1,1,4,NN-guided UCS (raw probs),0,0,1,1161
+1,1,4,NN-guided UCS (calibrated),0,0,1,1161
+1,1,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,2,4,no correction,0,0,1,1
+1,2,4,random correction,0,0,1,300
+1,2,4,NN-guided UCS (raw probs),0,1,0,14
+1,2,4,NN-guided UCS (calibrated),0,1,0,14
+1,2,4,NN-guided UCS (calibrated + unique),0,1,0,14
+1,3,4,no correction,0,0,1,1
+1,3,4,random correction,0,0,1,300
+1,3,4,NN-guided UCS (raw probs),0,0,1,1161
+1,3,4,NN-guided UCS (calibrated),0,0,1,1161
+1,3,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,4,4,no correction,0,0,1,1
+1,4,4,random correction,0,0,1,300
+1,4,4,NN-guided UCS (raw probs),0,0,1,1161
+1,4,4,NN-guided UCS (calibrated),0,0,1,1161
+1,4,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,5,4,no correction,0,0,1,1
+1,5,4,random correction,0,0,1,300
+1,5,4,NN-guided UCS (raw probs),0,0,1,1161
+1,5,4,NN-guided UCS (calibrated),0,0,1,1161
+1,5,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,6,4,no correction,0,0,1,1
+1,6,4,random correction,0,0,1,300
+1,6,4,NN-guided UCS (raw probs),0,0,1,1161
+1,6,4,NN-guided UCS (calibrated),0,0,1,1161
+1,6,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,7,4,no correction,0,0,1,1
+1,7,4,random correction,0,0,1,300
+1,7,4,NN-guided UCS (raw probs),0,0,1,1161
+1,7,4,NN-guided UCS (calibrated),0,0,1,1161
+1,7,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,8,4,no correction,0,0,1,1
+1,8,4,random correction,0,0,1,300
+1,8,4,NN-guided UCS (raw probs),0,0,1,1161
+1,8,4,NN-guided UCS (calibrated),0,0,1,1161
+1,8,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,9,4,no correction,0,0,1,1
+1,9,4,random correction,0,0,1,300
+1,9,4,NN-guided UCS (raw probs),0,0,1,1161
+1,9,4,NN-guided UCS (calibrated),0,0,1,1161
+1,9,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,10,4,no correction,0,0,1,1
+1,10,4,random correction,0,0,1,300
+1,10,4,NN-guided UCS (raw probs),0,1,0,151
+1,10,4,NN-guided UCS (calibrated),0,1,0,151
+1,10,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,11,4,no correction,0,0,1,1
+1,11,4,random correction,0,0,1,300
+1,11,4,NN-guided UCS (raw probs),0,1,0,56
+1,11,4,NN-guided UCS (calibrated),0,1,0,56
+1,11,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,12,4,no correction,0,0,1,1
+1,12,4,random correction,0,0,1,300
+1,12,4,NN-guided UCS (raw probs),0,0,1,1161
+1,12,4,NN-guided UCS (calibrated),0,0,1,1161
+1,12,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,13,4,no correction,0,0,1,1
+1,13,4,random correction,0,0,1,300
+1,13,4,NN-guided UCS (raw probs),0,0,1,1161
+1,13,4,NN-guided UCS (calibrated),0,0,1,1161
+1,13,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,14,4,no correction,0,0,1,1
+1,14,4,random correction,0,0,1,300
+1,14,4,NN-guided UCS (raw probs),0,1,0,383
+1,14,4,NN-guided UCS (calibrated),0,1,0,392
+1,14,4,NN-guided UCS (calibrated + unique),0,1,0,392
+1,15,4,no correction,0,0,1,1
+1,15,4,random correction,0,0,1,300
+1,15,4,NN-guided UCS (raw probs),0,0,1,1161
+1,15,4,NN-guided UCS (calibrated),0,1,0,399
+1,15,4,NN-guided UCS (calibrated + unique),0,1,0,1018
+1,16,4,no correction,0,0,1,1
+1,16,4,random correction,0,0,1,300
+1,16,4,NN-guided UCS (raw probs),0,1,0,42
+1,16,4,NN-guided UCS (calibrated),0,1,0,42
+1,16,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,17,4,no correction,0,0,1,1
+1,17,4,random correction,0,0,1,300
+1,17,4,NN-guided UCS (raw probs),0,1,0,388
+1,17,4,NN-guided UCS (calibrated),0,1,0,396
+1,17,4,NN-guided UCS (calibrated + unique),0,1,0,396
+1,18,4,no correction,0,0,1,1
+1,18,4,random correction,0,0,1,300
+1,18,4,NN-guided UCS (raw probs),0,0,1,1161
+1,18,4,NN-guided UCS (calibrated),0,0,1,1161
+1,18,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+1,19,4,no correction,0,0,1,1
+1,19,4,random correction,0,0,1,300
+1,19,4,NN-guided UCS (raw probs),0,1,0,14
+1,19,4,NN-guided UCS (calibrated),0,1,0,14
+1,19,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,0,0,no correction,1,0,0,1
+2,0,0,random correction,1,0,0,1
+2,0,0,NN-guided UCS (raw probs),1,0,0,1
+2,0,0,NN-guided UCS (calibrated),1,0,0,1
+2,0,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,1,0,no correction,1,0,0,1
+2,1,0,random correction,1,0,0,1
+2,1,0,NN-guided UCS (raw probs),1,0,0,1
+2,1,0,NN-guided UCS (calibrated),1,0,0,1
+2,1,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,2,0,no correction,1,0,0,1
+2,2,0,random correction,1,0,0,1
+2,2,0,NN-guided UCS (raw probs),1,0,0,1
+2,2,0,NN-guided UCS (calibrated),1,0,0,1
+2,2,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,3,0,no correction,1,0,0,1
+2,3,0,random correction,1,0,0,1
+2,3,0,NN-guided UCS (raw probs),1,0,0,1
+2,3,0,NN-guided UCS (calibrated),1,0,0,1
+2,3,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,4,0,no correction,1,0,0,1
+2,4,0,random correction,1,0,0,1
+2,4,0,NN-guided UCS (raw probs),1,0,0,1
+2,4,0,NN-guided UCS (calibrated),1,0,0,1
+2,4,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,5,0,no correction,1,0,0,1
+2,5,0,random correction,1,0,0,1
+2,5,0,NN-guided UCS (raw probs),1,0,0,1
+2,5,0,NN-guided UCS (calibrated),1,0,0,1
+2,5,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,6,0,no correction,1,0,0,1
+2,6,0,random correction,1,0,0,1
+2,6,0,NN-guided UCS (raw probs),1,0,0,1
+2,6,0,NN-guided UCS (calibrated),1,0,0,1
+2,6,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,7,0,no correction,1,0,0,1
+2,7,0,random correction,1,0,0,1
+2,7,0,NN-guided UCS (raw probs),1,0,0,1
+2,7,0,NN-guided UCS (calibrated),1,0,0,1
+2,7,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,8,0,no correction,1,0,0,1
+2,8,0,random correction,1,0,0,1
+2,8,0,NN-guided UCS (raw probs),1,0,0,1
+2,8,0,NN-guided UCS (calibrated),1,0,0,1
+2,8,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,9,0,no correction,1,0,0,1
+2,9,0,random correction,1,0,0,1
+2,9,0,NN-guided UCS (raw probs),1,0,0,1
+2,9,0,NN-guided UCS (calibrated),1,0,0,1
+2,9,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,10,0,no correction,1,0,0,1
+2,10,0,random correction,1,0,0,1
+2,10,0,NN-guided UCS (raw probs),1,0,0,1
+2,10,0,NN-guided UCS (calibrated),1,0,0,1
+2,10,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,11,0,no correction,1,0,0,1
+2,11,0,random correction,1,0,0,1
+2,11,0,NN-guided UCS (raw probs),1,0,0,1
+2,11,0,NN-guided UCS (calibrated),1,0,0,1
+2,11,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,12,0,no correction,1,0,0,1
+2,12,0,random correction,1,0,0,1
+2,12,0,NN-guided UCS (raw probs),1,0,0,1
+2,12,0,NN-guided UCS (calibrated),1,0,0,1
+2,12,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,13,0,no correction,1,0,0,1
+2,13,0,random correction,1,0,0,1
+2,13,0,NN-guided UCS (raw probs),1,0,0,1
+2,13,0,NN-guided UCS (calibrated),1,0,0,1
+2,13,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,14,0,no correction,1,0,0,1
+2,14,0,random correction,1,0,0,1
+2,14,0,NN-guided UCS (raw probs),1,0,0,1
+2,14,0,NN-guided UCS (calibrated),1,0,0,1
+2,14,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,15,0,no correction,1,0,0,1
+2,15,0,random correction,1,0,0,1
+2,15,0,NN-guided UCS (raw probs),1,0,0,1
+2,15,0,NN-guided UCS (calibrated),1,0,0,1
+2,15,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,16,0,no correction,1,0,0,1
+2,16,0,random correction,1,0,0,1
+2,16,0,NN-guided UCS (raw probs),1,0,0,1
+2,16,0,NN-guided UCS (calibrated),1,0,0,1
+2,16,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,17,0,no correction,1,0,0,1
+2,17,0,random correction,1,0,0,1
+2,17,0,NN-guided UCS (raw probs),1,0,0,1
+2,17,0,NN-guided UCS (calibrated),1,0,0,1
+2,17,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,18,0,no correction,1,0,0,1
+2,18,0,random correction,1,0,0,1
+2,18,0,NN-guided UCS (raw probs),1,0,0,1
+2,18,0,NN-guided UCS (calibrated),1,0,0,1
+2,18,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,19,0,no correction,1,0,0,1
+2,19,0,random correction,1,0,0,1
+2,19,0,NN-guided UCS (raw probs),1,0,0,1
+2,19,0,NN-guided UCS (calibrated),1,0,0,1
+2,19,0,NN-guided UCS (calibrated + unique),1,0,0,1
+2,0,1,no correction,0,0,1,1
+2,0,1,random correction,0,1,0,79
+2,0,1,NN-guided UCS (raw probs),1,0,0,2
+2,0,1,NN-guided UCS (calibrated),1,0,0,2
+2,0,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,1,1,no correction,0,0,1,1
+2,1,1,random correction,0,0,1,300
+2,1,1,NN-guided UCS (raw probs),0,0,1,1161
+2,1,1,NN-guided UCS (calibrated),0,0,1,1161
+2,1,1,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,2,1,no correction,0,0,1,1
+2,2,1,random correction,0,1,0,34
+2,2,1,NN-guided UCS (raw probs),1,0,0,2
+2,2,1,NN-guided UCS (calibrated),1,0,0,2
+2,2,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,3,1,no correction,0,0,1,1
+2,3,1,random correction,1,0,0,263
+2,3,1,NN-guided UCS (raw probs),1,0,0,3
+2,3,1,NN-guided UCS (calibrated),1,0,0,3
+2,3,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,4,1,no correction,0,0,1,1
+2,4,1,random correction,0,0,1,300
+2,4,1,NN-guided UCS (raw probs),1,0,0,4
+2,4,1,NN-guided UCS (calibrated),1,0,0,4
+2,4,1,NN-guided UCS (calibrated + unique),1,0,0,4
+2,5,1,no correction,0,0,1,1
+2,5,1,random correction,0,1,0,5
+2,5,1,NN-guided UCS (raw probs),1,0,0,3
+2,5,1,NN-guided UCS (calibrated),1,0,0,3
+2,5,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,6,1,no correction,0,0,1,1
+2,6,1,random correction,0,1,0,28
+2,6,1,NN-guided UCS (raw probs),1,0,0,7
+2,6,1,NN-guided UCS (calibrated),1,0,0,7
+2,6,1,NN-guided UCS (calibrated + unique),1,0,0,7
+2,7,1,no correction,0,1,0,1
+2,7,1,random correction,0,1,0,1
+2,7,1,NN-guided UCS (raw probs),0,1,0,1
+2,7,1,NN-guided UCS (calibrated),0,1,0,1
+2,7,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,8,1,no correction,0,0,1,1
+2,8,1,random correction,0,1,0,131
+2,8,1,NN-guided UCS (raw probs),1,0,0,2
+2,8,1,NN-guided UCS (calibrated),1,0,0,2
+2,8,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,9,1,no correction,0,0,1,1
+2,9,1,random correction,0,1,0,19
+2,9,1,NN-guided UCS (raw probs),1,0,0,2
+2,9,1,NN-guided UCS (calibrated),1,0,0,2
+2,9,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,10,1,no correction,0,0,1,1
+2,10,1,random correction,0,0,1,300
+2,10,1,NN-guided UCS (raw probs),1,0,0,3
+2,10,1,NN-guided UCS (calibrated),1,0,0,3
+2,10,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,11,1,no correction,0,0,1,1
+2,11,1,random correction,0,1,0,38
+2,11,1,NN-guided UCS (raw probs),1,0,0,2
+2,11,1,NN-guided UCS (calibrated),1,0,0,2
+2,11,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,12,1,no correction,0,0,1,1
+2,12,1,random correction,0,0,1,300
+2,12,1,NN-guided UCS (raw probs),1,0,0,3
+2,12,1,NN-guided UCS (calibrated),1,0,0,3
+2,12,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,13,1,no correction,0,0,1,1
+2,13,1,random correction,0,1,0,19
+2,13,1,NN-guided UCS (raw probs),1,0,0,2
+2,13,1,NN-guided UCS (calibrated),1,0,0,2
+2,13,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,14,1,no correction,0,1,0,1
+2,14,1,random correction,0,1,0,1
+2,14,1,NN-guided UCS (raw probs),0,1,0,1
+2,14,1,NN-guided UCS (calibrated),0,1,0,1
+2,14,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,15,1,no correction,0,0,1,1
+2,15,1,random correction,1,0,0,23
+2,15,1,NN-guided UCS (raw probs),1,0,0,3
+2,15,1,NN-guided UCS (calibrated),1,0,0,3
+2,15,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,16,1,no correction,0,0,1,1
+2,16,1,random correction,0,1,0,49
+2,16,1,NN-guided UCS (raw probs),1,0,0,2
+2,16,1,NN-guided UCS (calibrated),1,0,0,2
+2,16,1,NN-guided UCS (calibrated + unique),1,0,0,2
+2,17,1,no correction,0,0,1,1
+2,17,1,random correction,0,1,0,110
+2,17,1,NN-guided UCS (raw probs),1,0,0,7
+2,17,1,NN-guided UCS (calibrated),1,0,0,7
+2,17,1,NN-guided UCS (calibrated + unique),1,0,0,7
+2,18,1,no correction,0,0,1,1
+2,18,1,random correction,1,0,0,30
+2,18,1,NN-guided UCS (raw probs),1,0,0,3
+2,18,1,NN-guided UCS (calibrated),1,0,0,3
+2,18,1,NN-guided UCS (calibrated + unique),1,0,0,3
+2,19,1,no correction,0,0,1,1
+2,19,1,random correction,0,1,0,22
+2,19,1,NN-guided UCS (raw probs),1,0,0,7
+2,19,1,NN-guided UCS (calibrated),1,0,0,7
+2,19,1,NN-guided UCS (calibrated + unique),1,0,0,7
+2,0,2,no correction,0,0,1,1
+2,0,2,random correction,0,0,1,300
+2,0,2,NN-guided UCS (raw probs),0,1,0,19
+2,0,2,NN-guided UCS (calibrated),0,1,0,19
+2,0,2,NN-guided UCS (calibrated + unique),1,0,0,42
+2,1,2,no correction,0,0,1,1
+2,1,2,random correction,0,0,1,300
+2,1,2,NN-guided UCS (raw probs),1,0,0,4
+2,1,2,NN-guided UCS (calibrated),1,0,0,4
+2,1,2,NN-guided UCS (calibrated + unique),1,0,0,4
+2,2,2,no correction,0,0,1,1
+2,2,2,random correction,0,1,0,86
+2,2,2,NN-guided UCS (raw probs),0,1,0,4
+2,2,2,NN-guided UCS (calibrated),0,1,0,4
+2,2,2,NN-guided UCS (calibrated + unique),1,0,0,6
+2,3,2,no correction,0,0,1,1
+2,3,2,random correction,0,0,1,300
+2,3,2,NN-guided UCS (raw probs),1,0,0,4
+2,3,2,NN-guided UCS (calibrated),1,0,0,4
+2,3,2,NN-guided UCS (calibrated + unique),1,0,0,4
+2,4,2,no correction,0,0,1,1
+2,4,2,random correction,0,0,1,300
+2,4,2,NN-guided UCS (raw probs),1,0,0,15
+2,4,2,NN-guided UCS (calibrated),1,0,0,15
+2,4,2,NN-guided UCS (calibrated + unique),1,0,0,15
+2,5,2,no correction,0,0,1,1
+2,5,2,random correction,0,0,1,300
+2,5,2,NN-guided UCS (raw probs),1,0,0,89
+2,5,2,NN-guided UCS (calibrated),1,0,0,89
+2,5,2,NN-guided UCS (calibrated + unique),1,0,0,89
+2,6,2,no correction,0,0,1,1
+2,6,2,random correction,0,1,0,81
+2,6,2,NN-guided UCS (raw probs),0,1,0,18
+2,6,2,NN-guided UCS (calibrated),0,1,0,18
+2,6,2,NN-guided UCS (calibrated + unique),1,0,0,49
+2,7,2,no correction,0,0,1,1
+2,7,2,random correction,0,1,0,231
+2,7,2,NN-guided UCS (raw probs),1,0,0,4
+2,7,2,NN-guided UCS (calibrated),1,0,0,4
+2,7,2,NN-guided UCS (calibrated + unique),1,0,0,4
+2,8,2,no correction,0,0,1,1
+2,8,2,random correction,0,0,1,300
+2,8,2,NN-guided UCS (raw probs),1,0,0,4
+2,8,2,NN-guided UCS (calibrated),1,0,0,4
+2,8,2,NN-guided UCS (calibrated + unique),1,0,0,4
+2,9,2,no correction,0,0,1,1
+2,9,2,random correction,0,0,1,300
+2,9,2,NN-guided UCS (raw probs),0,1,0,5
+2,9,2,NN-guided UCS (calibrated),0,1,0,5
+2,9,2,NN-guided UCS (calibrated + unique),1,0,0,6
+2,10,2,no correction,0,0,1,1
+2,10,2,random correction,0,0,1,300
+2,10,2,NN-guided UCS (raw probs),1,0,0,13
+2,10,2,NN-guided UCS (calibrated),1,0,0,13
+2,10,2,NN-guided UCS (calibrated + unique),1,0,0,13
+2,11,2,no correction,0,0,1,1
+2,11,2,random correction,0,0,1,300
+2,11,2,NN-guided UCS (raw probs),1,0,0,5
+2,11,2,NN-guided UCS (calibrated),1,0,0,5
+2,11,2,NN-guided UCS (calibrated + unique),1,0,0,5
+2,12,2,no correction,0,0,1,1
+2,12,2,random correction,0,0,1,300
+2,12,2,NN-guided UCS (raw probs),1,0,0,37
+2,12,2,NN-guided UCS (calibrated),1,0,0,37
+2,12,2,NN-guided UCS (calibrated + unique),1,0,0,37
+2,13,2,no correction,0,0,1,1
+2,13,2,random correction,0,0,1,300
+2,13,2,NN-guided UCS (raw probs),0,1,0,7
+2,13,2,NN-guided UCS (calibrated),0,1,0,7
+2,13,2,NN-guided UCS (calibrated + unique),0,1,0,7
+2,14,2,no correction,0,0,1,1
+2,14,2,random correction,0,0,1,300
+2,14,2,NN-guided UCS (raw probs),1,0,0,8
+2,14,2,NN-guided UCS (calibrated),1,0,0,8
+2,14,2,NN-guided UCS (calibrated + unique),1,0,0,8
+2,15,2,no correction,0,0,1,1
+2,15,2,random correction,0,0,1,300
+2,15,2,NN-guided UCS (raw probs),1,0,0,11
+2,15,2,NN-guided UCS (calibrated),1,0,0,11
+2,15,2,NN-guided UCS (calibrated + unique),1,0,0,11
+2,16,2,no correction,0,0,1,1
+2,16,2,random correction,0,0,1,300
+2,16,2,NN-guided UCS (raw probs),1,0,0,59
+2,16,2,NN-guided UCS (calibrated),1,0,0,59
+2,16,2,NN-guided UCS (calibrated + unique),1,0,0,59
+2,17,2,no correction,0,0,1,1
+2,17,2,random correction,0,1,0,30
+2,17,2,NN-guided UCS (raw probs),0,1,0,8
+2,17,2,NN-guided UCS (calibrated),0,1,0,8
+2,17,2,NN-guided UCS (calibrated + unique),0,1,0,8
+2,18,2,no correction,0,0,1,1
+2,18,2,random correction,0,0,1,300
+2,18,2,NN-guided UCS (raw probs),1,0,0,9
+2,18,2,NN-guided UCS (calibrated),1,0,0,9
+2,18,2,NN-guided UCS (calibrated + unique),1,0,0,9
+2,19,2,no correction,0,0,1,1
+2,19,2,random correction,0,1,0,163
+2,19,2,NN-guided UCS (raw probs),1,0,0,5
+2,19,2,NN-guided UCS (calibrated),1,0,0,5
+2,19,2,NN-guided UCS (calibrated + unique),1,0,0,5
+2,0,3,no correction,0,0,1,1
+2,0,3,random correction,0,0,1,300
+2,0,3,NN-guided UCS (raw probs),1,0,0,56
+2,0,3,NN-guided UCS (calibrated),1,0,0,56
+2,0,3,NN-guided UCS (calibrated + unique),1,0,0,56
+2,1,3,no correction,0,0,1,1
+2,1,3,random correction,0,0,1,300
+2,1,3,NN-guided UCS (raw probs),0,1,0,13
+2,1,3,NN-guided UCS (calibrated),0,1,0,13
+2,1,3,NN-guided UCS (calibrated + unique),0,1,0,155
+2,2,3,no correction,0,0,1,1
+2,2,3,random correction,0,1,0,40
+2,2,3,NN-guided UCS (raw probs),1,0,0,9
+2,2,3,NN-guided UCS (calibrated),1,0,0,9
+2,2,3,NN-guided UCS (calibrated + unique),1,0,0,9
+2,3,3,no correction,0,0,1,1
+2,3,3,random correction,0,0,1,300
+2,3,3,NN-guided UCS (raw probs),0,1,0,4
+2,3,3,NN-guided UCS (calibrated),0,1,0,4
+2,3,3,NN-guided UCS (calibrated + unique),0,1,0,4
+2,4,3,no correction,0,0,1,1
+2,4,3,random correction,0,0,1,300
+2,4,3,NN-guided UCS (raw probs),1,0,0,28
+2,4,3,NN-guided UCS (calibrated),1,0,0,28
+2,4,3,NN-guided UCS (calibrated + unique),1,0,0,28
+2,5,3,no correction,0,0,1,1
+2,5,3,random correction,0,0,1,300
+2,5,3,NN-guided UCS (raw probs),0,1,0,28
+2,5,3,NN-guided UCS (calibrated),0,1,0,28
+2,5,3,NN-guided UCS (calibrated + unique),0,1,0,28
+2,6,3,no correction,0,0,1,1
+2,6,3,random correction,0,0,1,300
+2,6,3,NN-guided UCS (raw probs),1,0,0,629
+2,6,3,NN-guided UCS (calibrated),1,0,0,636
+2,6,3,NN-guided UCS (calibrated + unique),1,0,0,636
+2,7,3,no correction,0,0,1,1
+2,7,3,random correction,0,0,1,300
+2,7,3,NN-guided UCS (raw probs),0,0,1,1161
+2,7,3,NN-guided UCS (calibrated),0,0,1,1161
+2,7,3,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,8,3,no correction,0,0,1,1
+2,8,3,random correction,0,0,1,300
+2,8,3,NN-guided UCS (raw probs),1,0,0,40
+2,8,3,NN-guided UCS (calibrated),1,0,0,40
+2,8,3,NN-guided UCS (calibrated + unique),1,0,0,40
+2,9,3,no correction,0,0,1,1
+2,9,3,random correction,0,1,0,21
+2,9,3,NN-guided UCS (raw probs),0,1,0,35
+2,9,3,NN-guided UCS (calibrated),0,1,0,35
+2,9,3,NN-guided UCS (calibrated + unique),0,1,0,240
+2,10,3,no correction,0,0,1,1
+2,10,3,random correction,0,0,1,300
+2,10,3,NN-guided UCS (raw probs),1,0,0,12
+2,10,3,NN-guided UCS (calibrated),1,0,0,12
+2,10,3,NN-guided UCS (calibrated + unique),1,0,0,12
+2,11,3,no correction,0,0,1,1
+2,11,3,random correction,0,0,1,300
+2,11,3,NN-guided UCS (raw probs),0,1,0,18
+2,11,3,NN-guided UCS (calibrated),0,1,0,18
+2,11,3,NN-guided UCS (calibrated + unique),1,0,0,39
+2,12,3,no correction,0,0,1,1
+2,12,3,random correction,0,0,1,300
+2,12,3,NN-guided UCS (raw probs),0,1,0,4
+2,12,3,NN-guided UCS (calibrated),0,1,0,4
+2,12,3,NN-guided UCS (calibrated + unique),1,0,0,48
+2,13,3,no correction,0,0,1,1
+2,13,3,random correction,0,1,0,6
+2,13,3,NN-guided UCS (raw probs),0,1,0,2
+2,13,3,NN-guided UCS (calibrated),0,1,0,2
+2,13,3,NN-guided UCS (calibrated + unique),0,1,0,2
+2,14,3,no correction,0,0,1,1
+2,14,3,random correction,0,0,1,300
+2,14,3,NN-guided UCS (raw probs),1,0,0,13
+2,14,3,NN-guided UCS (calibrated),1,0,0,13
+2,14,3,NN-guided UCS (calibrated + unique),1,0,0,13
+2,15,3,no correction,0,0,1,1
+2,15,3,random correction,0,0,1,300
+2,15,3,NN-guided UCS (raw probs),1,0,0,15
+2,15,3,NN-guided UCS (calibrated),1,0,0,15
+2,15,3,NN-guided UCS (calibrated + unique),1,0,0,15
+2,16,3,no correction,0,0,1,1
+2,16,3,random correction,0,1,0,198
+2,16,3,NN-guided UCS (raw probs),0,1,0,52
+2,16,3,NN-guided UCS (calibrated),0,1,0,52
+2,16,3,NN-guided UCS (calibrated + unique),0,1,0,137
+2,17,3,no correction,0,0,1,1
+2,17,3,random correction,0,0,1,300
+2,17,3,NN-guided UCS (raw probs),1,0,0,48
+2,17,3,NN-guided UCS (calibrated),1,0,0,48
+2,17,3,NN-guided UCS (calibrated + unique),1,0,0,48
+2,18,3,no correction,0,0,1,1
+2,18,3,random correction,0,0,1,300
+2,18,3,NN-guided UCS (raw probs),1,0,0,126
+2,18,3,NN-guided UCS (calibrated),1,0,0,126
+2,18,3,NN-guided UCS (calibrated + unique),1,0,0,126
+2,19,3,no correction,0,0,1,1
+2,19,3,random correction,0,0,1,300
+2,19,3,NN-guided UCS (raw probs),1,0,0,47
+2,19,3,NN-guided UCS (calibrated),1,0,0,47
+2,19,3,NN-guided UCS (calibrated + unique),1,0,0,47
+2,0,4,no correction,0,0,1,1
+2,0,4,random correction,0,0,1,300
+2,0,4,NN-guided UCS (raw probs),0,1,0,48
+2,0,4,NN-guided UCS (calibrated),0,1,0,48
+2,0,4,NN-guided UCS (calibrated + unique),0,1,0,48
+2,1,4,no correction,0,0,1,1
+2,1,4,random correction,0,0,1,300
+2,1,4,NN-guided UCS (raw probs),0,0,1,1161
+2,1,4,NN-guided UCS (calibrated),0,0,1,1161
+2,1,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,2,4,no correction,0,0,1,1
+2,2,4,random correction,0,0,1,300
+2,2,4,NN-guided UCS (raw probs),0,1,0,449
+2,2,4,NN-guided UCS (calibrated),0,1,0,454
+2,2,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,3,4,no correction,0,0,1,1
+2,3,4,random correction,0,0,1,300
+2,3,4,NN-guided UCS (raw probs),0,1,0,202
+2,3,4,NN-guided UCS (calibrated),0,1,0,202
+2,3,4,NN-guided UCS (calibrated + unique),0,1,0,202
+2,4,4,no correction,0,0,1,1
+2,4,4,random correction,0,0,1,300
+2,4,4,NN-guided UCS (raw probs),0,1,0,286
+2,4,4,NN-guided UCS (calibrated),0,1,0,286
+2,4,4,NN-guided UCS (calibrated + unique),0,1,0,286
+2,5,4,no correction,0,0,1,1
+2,5,4,random correction,0,0,1,300
+2,5,4,NN-guided UCS (raw probs),0,0,1,1161
+2,5,4,NN-guided UCS (calibrated),0,0,1,1161
+2,5,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,6,4,no correction,0,0,1,1
+2,6,4,random correction,0,0,1,300
+2,6,4,NN-guided UCS (raw probs),0,0,1,1161
+2,6,4,NN-guided UCS (calibrated),0,0,1,1161
+2,6,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,7,4,no correction,0,0,1,1
+2,7,4,random correction,0,0,1,300
+2,7,4,NN-guided UCS (raw probs),0,0,1,1161
+2,7,4,NN-guided UCS (calibrated),0,0,1,1161
+2,7,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,8,4,no correction,0,0,1,1
+2,8,4,random correction,0,0,1,300
+2,8,4,NN-guided UCS (raw probs),0,1,0,44
+2,8,4,NN-guided UCS (calibrated),0,1,0,44
+2,8,4,NN-guided UCS (calibrated + unique),0,1,0,44
+2,9,4,no correction,0,0,1,1
+2,9,4,random correction,0,0,1,300
+2,9,4,NN-guided UCS (raw probs),0,0,1,1161
+2,9,4,NN-guided UCS (calibrated),0,0,1,1161
+2,9,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,10,4,no correction,0,0,1,1
+2,10,4,random correction,0,0,1,300
+2,10,4,NN-guided UCS (raw probs),0,0,1,1161
+2,10,4,NN-guided UCS (calibrated),0,0,1,1161
+2,10,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,11,4,no correction,0,0,1,1
+2,11,4,random correction,0,0,1,300
+2,11,4,NN-guided UCS (raw probs),0,0,1,1161
+2,11,4,NN-guided UCS (calibrated),0,0,1,1161
+2,11,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,12,4,no correction,0,0,1,1
+2,12,4,random correction,0,0,1,300
+2,12,4,NN-guided UCS (raw probs),0,0,1,1161
+2,12,4,NN-guided UCS (calibrated),0,0,1,1161
+2,12,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,13,4,no correction,0,0,1,1
+2,13,4,random correction,0,0,1,300
+2,13,4,NN-guided UCS (raw probs),0,0,1,1161
+2,13,4,NN-guided UCS (calibrated),0,0,1,1161
+2,13,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,14,4,no correction,0,0,1,1
+2,14,4,random correction,0,0,1,300
+2,14,4,NN-guided UCS (raw probs),0,0,1,1161
+2,14,4,NN-guided UCS (calibrated),0,0,1,1161
+2,14,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,15,4,no correction,0,0,1,1
+2,15,4,random correction,0,0,1,300
+2,15,4,NN-guided UCS (raw probs),0,0,1,1161
+2,15,4,NN-guided UCS (calibrated),0,0,1,1161
+2,15,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,16,4,no correction,0,0,1,1
+2,16,4,random correction,0,0,1,300
+2,16,4,NN-guided UCS (raw probs),0,1,0,86
+2,16,4,NN-guided UCS (calibrated),0,1,0,86
+2,16,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,17,4,no correction,0,0,1,1
+2,17,4,random correction,0,0,1,300
+2,17,4,NN-guided UCS (raw probs),0,0,1,1161
+2,17,4,NN-guided UCS (calibrated),0,0,1,1161
+2,17,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+2,18,4,no correction,0,0,1,1
+2,18,4,random correction,0,0,1,300
+2,18,4,NN-guided UCS (raw probs),0,1,0,221
+2,18,4,NN-guided UCS (calibrated),0,1,0,221
+2,18,4,NN-guided UCS (calibrated + unique),0,1,0,221
+2,19,4,no correction,0,0,1,1
+2,19,4,random correction,0,0,1,300
+2,19,4,NN-guided UCS (raw probs),0,0,1,1161
+2,19,4,NN-guided UCS (calibrated),0,0,1,1161
+2,19,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,0,0,no correction,1,0,0,1
+3,0,0,random correction,1,0,0,1
+3,0,0,NN-guided UCS (raw probs),1,0,0,1
+3,0,0,NN-guided UCS (calibrated),1,0,0,1
+3,0,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,1,0,no correction,1,0,0,1
+3,1,0,random correction,1,0,0,1
+3,1,0,NN-guided UCS (raw probs),1,0,0,1
+3,1,0,NN-guided UCS (calibrated),1,0,0,1
+3,1,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,2,0,no correction,1,0,0,1
+3,2,0,random correction,1,0,0,1
+3,2,0,NN-guided UCS (raw probs),1,0,0,1
+3,2,0,NN-guided UCS (calibrated),1,0,0,1
+3,2,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,3,0,no correction,1,0,0,1
+3,3,0,random correction,1,0,0,1
+3,3,0,NN-guided UCS (raw probs),1,0,0,1
+3,3,0,NN-guided UCS (calibrated),1,0,0,1
+3,3,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,4,0,no correction,1,0,0,1
+3,4,0,random correction,1,0,0,1
+3,4,0,NN-guided UCS (raw probs),1,0,0,1
+3,4,0,NN-guided UCS (calibrated),1,0,0,1
+3,4,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,5,0,no correction,1,0,0,1
+3,5,0,random correction,1,0,0,1
+3,5,0,NN-guided UCS (raw probs),1,0,0,1
+3,5,0,NN-guided UCS (calibrated),1,0,0,1
+3,5,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,6,0,no correction,1,0,0,1
+3,6,0,random correction,1,0,0,1
+3,6,0,NN-guided UCS (raw probs),1,0,0,1
+3,6,0,NN-guided UCS (calibrated),1,0,0,1
+3,6,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,7,0,no correction,1,0,0,1
+3,7,0,random correction,1,0,0,1
+3,7,0,NN-guided UCS (raw probs),1,0,0,1
+3,7,0,NN-guided UCS (calibrated),1,0,0,1
+3,7,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,8,0,no correction,1,0,0,1
+3,8,0,random correction,1,0,0,1
+3,8,0,NN-guided UCS (raw probs),1,0,0,1
+3,8,0,NN-guided UCS (calibrated),1,0,0,1
+3,8,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,9,0,no correction,1,0,0,1
+3,9,0,random correction,1,0,0,1
+3,9,0,NN-guided UCS (raw probs),1,0,0,1
+3,9,0,NN-guided UCS (calibrated),1,0,0,1
+3,9,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,10,0,no correction,1,0,0,1
+3,10,0,random correction,1,0,0,1
+3,10,0,NN-guided UCS (raw probs),1,0,0,1
+3,10,0,NN-guided UCS (calibrated),1,0,0,1
+3,10,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,11,0,no correction,1,0,0,1
+3,11,0,random correction,1,0,0,1
+3,11,0,NN-guided UCS (raw probs),1,0,0,1
+3,11,0,NN-guided UCS (calibrated),1,0,0,1
+3,11,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,12,0,no correction,1,0,0,1
+3,12,0,random correction,1,0,0,1
+3,12,0,NN-guided UCS (raw probs),1,0,0,1
+3,12,0,NN-guided UCS (calibrated),1,0,0,1
+3,12,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,13,0,no correction,1,0,0,1
+3,13,0,random correction,1,0,0,1
+3,13,0,NN-guided UCS (raw probs),1,0,0,1
+3,13,0,NN-guided UCS (calibrated),1,0,0,1
+3,13,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,14,0,no correction,1,0,0,1
+3,14,0,random correction,1,0,0,1
+3,14,0,NN-guided UCS (raw probs),1,0,0,1
+3,14,0,NN-guided UCS (calibrated),1,0,0,1
+3,14,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,15,0,no correction,1,0,0,1
+3,15,0,random correction,1,0,0,1
+3,15,0,NN-guided UCS (raw probs),1,0,0,1
+3,15,0,NN-guided UCS (calibrated),1,0,0,1
+3,15,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,16,0,no correction,1,0,0,1
+3,16,0,random correction,1,0,0,1
+3,16,0,NN-guided UCS (raw probs),1,0,0,1
+3,16,0,NN-guided UCS (calibrated),1,0,0,1
+3,16,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,17,0,no correction,1,0,0,1
+3,17,0,random correction,1,0,0,1
+3,17,0,NN-guided UCS (raw probs),1,0,0,1
+3,17,0,NN-guided UCS (calibrated),1,0,0,1
+3,17,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,18,0,no correction,1,0,0,1
+3,18,0,random correction,1,0,0,1
+3,18,0,NN-guided UCS (raw probs),1,0,0,1
+3,18,0,NN-guided UCS (calibrated),1,0,0,1
+3,18,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,19,0,no correction,1,0,0,1
+3,19,0,random correction,1,0,0,1
+3,19,0,NN-guided UCS (raw probs),1,0,0,1
+3,19,0,NN-guided UCS (calibrated),1,0,0,1
+3,19,0,NN-guided UCS (calibrated + unique),1,0,0,1
+3,0,1,no correction,0,0,1,1
+3,0,1,random correction,1,0,0,157
+3,0,1,NN-guided UCS (raw probs),1,0,0,2
+3,0,1,NN-guided UCS (calibrated),1,0,0,2
+3,0,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,1,1,no correction,0,0,1,1
+3,1,1,random correction,0,0,1,300
+3,1,1,NN-guided UCS (raw probs),1,0,0,6
+3,1,1,NN-guided UCS (calibrated),1,0,0,6
+3,1,1,NN-guided UCS (calibrated + unique),1,0,0,6
+3,2,1,no correction,0,0,1,1
+3,2,1,random correction,0,1,0,209
+3,2,1,NN-guided UCS (raw probs),1,0,0,2
+3,2,1,NN-guided UCS (calibrated),1,0,0,2
+3,2,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,3,1,no correction,0,0,1,1
+3,3,1,random correction,0,1,0,282
+3,3,1,NN-guided UCS (raw probs),1,0,0,2
+3,3,1,NN-guided UCS (calibrated),1,0,0,2
+3,3,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,4,1,no correction,0,0,1,1
+3,4,1,random correction,1,0,0,16
+3,4,1,NN-guided UCS (raw probs),1,0,0,3
+3,4,1,NN-guided UCS (calibrated),1,0,0,3
+3,4,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,5,1,no correction,0,1,0,1
+3,5,1,random correction,0,1,0,1
+3,5,1,NN-guided UCS (raw probs),0,1,0,1
+3,5,1,NN-guided UCS (calibrated),0,1,0,1
+3,5,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,6,1,no correction,0,0,1,1
+3,6,1,random correction,0,1,0,5
+3,6,1,NN-guided UCS (raw probs),1,0,0,3
+3,6,1,NN-guided UCS (calibrated),1,0,0,3
+3,6,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,7,1,no correction,0,0,1,1
+3,7,1,random correction,0,1,0,280
+3,7,1,NN-guided UCS (raw probs),1,0,0,2
+3,7,1,NN-guided UCS (calibrated),1,0,0,2
+3,7,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,8,1,no correction,0,1,0,1
+3,8,1,random correction,0,1,0,1
+3,8,1,NN-guided UCS (raw probs),0,1,0,1
+3,8,1,NN-guided UCS (calibrated),0,1,0,1
+3,8,1,NN-guided UCS (calibrated + unique),0,1,0,1
+3,9,1,no correction,0,1,0,1
+3,9,1,random correction,0,1,0,1
+3,9,1,NN-guided UCS (raw probs),0,1,0,1
+3,9,1,NN-guided UCS (calibrated),0,1,0,1
+3,9,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,10,1,no correction,0,0,1,1
+3,10,1,random correction,0,1,0,197
+3,10,1,NN-guided UCS (raw probs),1,0,0,2
+3,10,1,NN-guided UCS (calibrated),1,0,0,2
+3,10,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,11,1,no correction,0,0,1,1
+3,11,1,random correction,0,0,1,300
+3,11,1,NN-guided UCS (raw probs),1,0,0,3
+3,11,1,NN-guided UCS (calibrated),1,0,0,3
+3,11,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,12,1,no correction,0,0,1,1
+3,12,1,random correction,0,0,1,300
+3,12,1,NN-guided UCS (raw probs),1,0,0,2
+3,12,1,NN-guided UCS (calibrated),1,0,0,2
+3,12,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,13,1,no correction,0,0,1,1
+3,13,1,random correction,0,1,0,223
+3,13,1,NN-guided UCS (raw probs),1,0,0,2
+3,13,1,NN-guided UCS (calibrated),1,0,0,2
+3,13,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,14,1,no correction,0,1,0,1
+3,14,1,random correction,0,1,0,1
+3,14,1,NN-guided UCS (raw probs),0,1,0,1
+3,14,1,NN-guided UCS (calibrated),0,1,0,1
+3,14,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,15,1,no correction,0,0,1,1
+3,15,1,random correction,0,1,0,73
+3,15,1,NN-guided UCS (raw probs),1,0,0,3
+3,15,1,NN-guided UCS (calibrated),1,0,0,3
+3,15,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,16,1,no correction,0,0,1,1
+3,16,1,random correction,1,0,0,96
+3,16,1,NN-guided UCS (raw probs),1,0,0,3
+3,16,1,NN-guided UCS (calibrated),1,0,0,3
+3,16,1,NN-guided UCS (calibrated + unique),1,0,0,3
+3,17,1,no correction,0,0,1,1
+3,17,1,random correction,0,0,1,300
+3,17,1,NN-guided UCS (raw probs),1,0,0,2
+3,17,1,NN-guided UCS (calibrated),1,0,0,2
+3,17,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,18,1,no correction,0,0,1,1
+3,18,1,random correction,1,0,0,119
+3,18,1,NN-guided UCS (raw probs),1,0,0,2
+3,18,1,NN-guided UCS (calibrated),1,0,0,2
+3,18,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,19,1,no correction,0,0,1,1
+3,19,1,random correction,0,0,1,300
+3,19,1,NN-guided UCS (raw probs),1,0,0,2
+3,19,1,NN-guided UCS (calibrated),1,0,0,2
+3,19,1,NN-guided UCS (calibrated + unique),1,0,0,2
+3,0,2,no correction,0,1,0,1
+3,0,2,random correction,0,1,0,1
+3,0,2,NN-guided UCS (raw probs),0,1,0,1
+3,0,2,NN-guided UCS (calibrated),0,1,0,1
+3,0,2,NN-guided UCS (calibrated + unique),0,1,0,2
+3,1,2,no correction,0,1,0,1
+3,1,2,random correction,0,1,0,1
+3,1,2,NN-guided UCS (raw probs),0,1,0,1
+3,1,2,NN-guided UCS (calibrated),0,1,0,1
+3,1,2,NN-guided UCS (calibrated + unique),0,1,0,1
+3,2,2,no correction,0,0,1,1
+3,2,2,random correction,0,0,1,300
+3,2,2,NN-guided UCS (raw probs),1,0,0,273
+3,2,2,NN-guided UCS (calibrated),1,0,0,273
+3,2,2,NN-guided UCS (calibrated + unique),1,0,0,273
+3,3,2,no correction,0,0,1,1
+3,3,2,random correction,0,1,0,48
+3,3,2,NN-guided UCS (raw probs),1,0,0,5
+3,3,2,NN-guided UCS (calibrated),1,0,0,5
+3,3,2,NN-guided UCS (calibrated + unique),1,0,0,5
+3,4,2,no correction,0,0,1,1
+3,4,2,random correction,0,0,1,300
+3,4,2,NN-guided UCS (raw probs),1,0,0,4
+3,4,2,NN-guided UCS (calibrated),1,0,0,4
+3,4,2,NN-guided UCS (calibrated + unique),1,0,0,4
+3,5,2,no correction,0,0,1,1
+3,5,2,random correction,0,0,1,300
+3,5,2,NN-guided UCS (raw probs),0,1,0,5
+3,5,2,NN-guided UCS (calibrated),0,1,0,5
+3,5,2,NN-guided UCS (calibrated + unique),0,1,0,5
+3,6,2,no correction,0,0,1,1
+3,6,2,random correction,0,0,1,300
+3,6,2,NN-guided UCS (raw probs),0,1,0,5
+3,6,2,NN-guided UCS (calibrated),0,1,0,5
+3,6,2,NN-guided UCS (calibrated + unique),1,0,0,12
+3,7,2,no correction,0,0,1,1
+3,7,2,random correction,0,0,1,300
+3,7,2,NN-guided UCS (raw probs),1,0,0,257
+3,7,2,NN-guided UCS (calibrated),1,0,0,257
+3,7,2,NN-guided UCS (calibrated + unique),1,0,0,257
+3,8,2,no correction,0,1,0,1
+3,8,2,random correction,0,1,0,1
+3,8,2,NN-guided UCS (raw probs),0,1,0,1
+3,8,2,NN-guided UCS (calibrated),0,1,0,1
+3,8,2,NN-guided UCS (calibrated + unique),0,1,0,1
+3,9,2,no correction,0,0,1,1
+3,9,2,random correction,0,0,1,300
+3,9,2,NN-guided UCS (raw probs),0,1,0,16
+3,9,2,NN-guided UCS (calibrated),0,1,0,16
+3,9,2,NN-guided UCS (calibrated + unique),1,0,0,213
+3,10,2,no correction,0,0,1,1
+3,10,2,random correction,0,0,1,300
+3,10,2,NN-guided UCS (raw probs),1,0,0,4
+3,10,2,NN-guided UCS (calibrated),1,0,0,4
+3,10,2,NN-guided UCS (calibrated + unique),1,0,0,4
+3,11,2,no correction,0,0,1,1
+3,11,2,random correction,0,0,1,300
+3,11,2,NN-guided UCS (raw probs),0,1,0,8
+3,11,2,NN-guided UCS (calibrated),0,1,0,8
+3,11,2,NN-guided UCS (calibrated + unique),1,0,0,23
+3,12,2,no correction,0,0,1,1
+3,12,2,random correction,0,0,1,300
+3,12,2,NN-guided UCS (raw probs),1,0,0,6
+3,12,2,NN-guided UCS (calibrated),1,0,0,6
+3,12,2,NN-guided UCS (calibrated + unique),1,0,0,6
+3,13,2,no correction,0,0,1,1
+3,13,2,random correction,0,0,1,300
+3,13,2,NN-guided UCS (raw probs),1,0,0,4
+3,13,2,NN-guided UCS (calibrated),1,0,0,4
+3,13,2,NN-guided UCS (calibrated + unique),1,0,0,4
+3,14,2,no correction,0,0,1,1
+3,14,2,random correction,0,0,1,300
+3,14,2,NN-guided UCS (raw probs),1,0,0,43
+3,14,2,NN-guided UCS (calibrated),1,0,0,43
+3,14,2,NN-guided UCS (calibrated + unique),1,0,0,43
+3,15,2,no correction,0,0,1,1
+3,15,2,random correction,0,0,1,300
+3,15,2,NN-guided UCS (raw probs),1,0,0,5
+3,15,2,NN-guided UCS (calibrated),1,0,0,5
+3,15,2,NN-guided UCS (calibrated + unique),1,0,0,5
+3,16,2,no correction,0,0,1,1
+3,16,2,random correction,0,0,1,300
+3,16,2,NN-guided UCS (raw probs),1,0,0,37
+3,16,2,NN-guided UCS (calibrated),1,0,0,37
+3,16,2,NN-guided UCS (calibrated + unique),1,0,0,37
+3,17,2,no correction,0,0,1,1
+3,17,2,random correction,0,1,0,4
+3,17,2,NN-guided UCS (raw probs),0,1,0,3
+3,17,2,NN-guided UCS (calibrated),0,1,0,3
+3,17,2,NN-guided UCS (calibrated + unique),1,0,0,17
+3,18,2,no correction,0,0,1,1
+3,18,2,random correction,0,0,1,300
+3,18,2,NN-guided UCS (raw probs),1,0,0,8
+3,18,2,NN-guided UCS (calibrated),1,0,0,8
+3,18,2,NN-guided UCS (calibrated + unique),1,0,0,8
+3,19,2,no correction,0,0,1,1
+3,19,2,random correction,0,1,0,108
+3,19,2,NN-guided UCS (raw probs),0,0,1,1161
+3,19,2,NN-guided UCS (calibrated),0,0,1,1161
+3,19,2,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,0,3,no correction,0,0,1,1
+3,0,3,random correction,0,0,1,300
+3,0,3,NN-guided UCS (raw probs),1,0,0,45
+3,0,3,NN-guided UCS (calibrated),1,0,0,45
+3,0,3,NN-guided UCS (calibrated + unique),1,0,0,45
+3,1,3,no correction,0,0,1,1
+3,1,3,random correction,0,0,1,300
+3,1,3,NN-guided UCS (raw probs),1,0,0,30
+3,1,3,NN-guided UCS (calibrated),1,0,0,30
+3,1,3,NN-guided UCS (calibrated + unique),1,0,0,30
+3,2,3,no correction,0,1,0,1
+3,2,3,random correction,0,1,0,1
+3,2,3,NN-guided UCS (raw probs),0,1,0,1
+3,2,3,NN-guided UCS (calibrated),0,1,0,1
+3,2,3,NN-guided UCS (calibrated + unique),1,0,0,126
+3,3,3,no correction,0,0,1,1
+3,3,3,random correction,0,0,1,300
+3,3,3,NN-guided UCS (raw probs),1,0,0,51
+3,3,3,NN-guided UCS (calibrated),1,0,0,51
+3,3,3,NN-guided UCS (calibrated + unique),1,0,0,51
+3,4,3,no correction,0,0,1,1
+3,4,3,random correction,0,0,1,300
+3,4,3,NN-guided UCS (raw probs),0,1,0,21
+3,4,3,NN-guided UCS (calibrated),0,1,0,21
+3,4,3,NN-guided UCS (calibrated + unique),1,0,0,25
+3,5,3,no correction,0,0,1,1
+3,5,3,random correction,0,0,1,300
+3,5,3,NN-guided UCS (raw probs),1,0,0,291
+3,5,3,NN-guided UCS (calibrated),1,0,0,291
+3,5,3,NN-guided UCS (calibrated + unique),1,0,0,291
+3,6,3,no correction,0,0,1,1
+3,6,3,random correction,0,0,1,300
+3,6,3,NN-guided UCS (raw probs),1,0,0,17
+3,6,3,NN-guided UCS (calibrated),1,0,0,17
+3,6,3,NN-guided UCS (calibrated + unique),1,0,0,17
+3,7,3,no correction,0,0,1,1
+3,7,3,random correction,0,0,1,300
+3,7,3,NN-guided UCS (raw probs),1,0,0,125
+3,7,3,NN-guided UCS (calibrated),1,0,0,125
+3,7,3,NN-guided UCS (calibrated + unique),1,0,0,125
+3,8,3,no correction,0,0,1,1
+3,8,3,random correction,0,0,1,300
+3,8,3,NN-guided UCS (raw probs),1,0,0,12
+3,8,3,NN-guided UCS (calibrated),1,0,0,12
+3,8,3,NN-guided UCS (calibrated + unique),1,0,0,12
+3,9,3,no correction,0,0,1,1
+3,9,3,random correction,0,0,1,300
+3,9,3,NN-guided UCS (raw probs),1,0,0,19
+3,9,3,NN-guided UCS (calibrated),1,0,0,19
+3,9,3,NN-guided UCS (calibrated + unique),1,0,0,19
+3,10,3,no correction,0,0,1,1
+3,10,3,random correction,0,0,1,300
+3,10,3,NN-guided UCS (raw probs),1,0,0,573
+3,10,3,NN-guided UCS (calibrated),1,0,0,573
+3,10,3,NN-guided UCS (calibrated + unique),1,0,0,573
+3,11,3,no correction,0,0,1,1
+3,11,3,random correction,0,0,1,300
+3,11,3,NN-guided UCS (raw probs),1,0,0,40
+3,11,3,NN-guided UCS (calibrated),1,0,0,40
+3,11,3,NN-guided UCS (calibrated + unique),1,0,0,40
+3,12,3,no correction,0,0,1,1
+3,12,3,random correction,0,0,1,300
+3,12,3,NN-guided UCS (raw probs),1,0,0,31
+3,12,3,NN-guided UCS (calibrated),1,0,0,31
+3,12,3,NN-guided UCS (calibrated + unique),1,0,0,31
+3,13,3,no correction,0,0,1,1
+3,13,3,random correction,0,0,1,300
+3,13,3,NN-guided UCS (raw probs),1,0,0,117
+3,13,3,NN-guided UCS (calibrated),1,0,0,117
+3,13,3,NN-guided UCS (calibrated + unique),1,0,0,117
+3,14,3,no correction,0,0,1,1
+3,14,3,random correction,0,0,1,300
+3,14,3,NN-guided UCS (raw probs),1,0,0,199
+3,14,3,NN-guided UCS (calibrated),1,0,0,199
+3,14,3,NN-guided UCS (calibrated + unique),1,0,0,199
+3,15,3,no correction,0,0,1,1
+3,15,3,random correction,0,1,0,236
+3,15,3,NN-guided UCS (raw probs),0,1,0,5
+3,15,3,NN-guided UCS (calibrated),0,1,0,5
+3,15,3,NN-guided UCS (calibrated + unique),0,1,0,5
+3,16,3,no correction,0,0,1,1
+3,16,3,random correction,0,0,1,300
+3,16,3,NN-guided UCS (raw probs),0,1,0,24
+3,16,3,NN-guided UCS (calibrated),0,1,0,24
+3,16,3,NN-guided UCS (calibrated + unique),1,0,0,32
+3,17,3,no correction,0,0,1,1
+3,17,3,random correction,0,0,1,300
+3,17,3,NN-guided UCS (raw probs),0,0,1,1161
+3,17,3,NN-guided UCS (calibrated),0,0,1,1161
+3,17,3,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,18,3,no correction,0,0,1,1
+3,18,3,random correction,0,0,1,300
+3,18,3,NN-guided UCS (raw probs),0,1,0,83
+3,18,3,NN-guided UCS (calibrated),0,1,0,83
+3,18,3,NN-guided UCS (calibrated + unique),0,1,0,83
+3,19,3,no correction,0,0,1,1
+3,19,3,random correction,0,0,1,300
+3,19,3,NN-guided UCS (raw probs),0,1,0,196
+3,19,3,NN-guided UCS (calibrated),0,1,0,193
+3,19,3,NN-guided UCS (calibrated + unique),0,1,0,193
+3,0,4,no correction,0,0,1,1
+3,0,4,random correction,0,0,1,300
+3,0,4,NN-guided UCS (raw probs),0,1,0,193
+3,0,4,NN-guided UCS (calibrated),0,1,0,193
+3,0,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,1,4,no correction,0,0,1,1
+3,1,4,random correction,0,0,1,300
+3,1,4,NN-guided UCS (raw probs),0,1,0,29
+3,1,4,NN-guided UCS (calibrated),0,1,0,29
+3,1,4,NN-guided UCS (calibrated + unique),0,1,0,29
+3,2,4,no correction,0,0,1,1
+3,2,4,random correction,0,0,1,300
+3,2,4,NN-guided UCS (raw probs),0,1,0,17
+3,2,4,NN-guided UCS (calibrated),0,1,0,17
+3,2,4,NN-guided UCS (calibrated + unique),0,1,0,17
+3,3,4,no correction,0,0,1,1
+3,3,4,random correction,0,0,1,300
+3,3,4,NN-guided UCS (raw probs),0,1,0,8
+3,3,4,NN-guided UCS (calibrated),0,1,0,8
+3,3,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,4,4,no correction,0,0,1,1
+3,4,4,random correction,0,0,1,300
+3,4,4,NN-guided UCS (raw probs),0,0,1,1161
+3,4,4,NN-guided UCS (calibrated),0,0,1,1161
+3,4,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,5,4,no correction,0,0,1,1
+3,5,4,random correction,0,0,1,300
+3,5,4,NN-guided UCS (raw probs),0,1,0,7
+3,5,4,NN-guided UCS (calibrated),0,1,0,7
+3,5,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,6,4,no correction,0,0,1,1
+3,6,4,random correction,0,0,1,300
+3,6,4,NN-guided UCS (raw probs),0,0,1,1161
+3,6,4,NN-guided UCS (calibrated),0,0,1,1161
+3,6,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,7,4,no correction,0,0,1,1
+3,7,4,random correction,0,0,1,300
+3,7,4,NN-guided UCS (raw probs),0,0,1,1161
+3,7,4,NN-guided UCS (calibrated),0,0,1,1161
+3,7,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,8,4,no correction,0,0,1,1
+3,8,4,random correction,0,0,1,300
+3,8,4,NN-guided UCS (raw probs),0,0,1,1161
+3,8,4,NN-guided UCS (calibrated),0,0,1,1161
+3,8,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,9,4,no correction,0,0,1,1
+3,9,4,random correction,0,0,1,300
+3,9,4,NN-guided UCS (raw probs),0,0,1,1161
+3,9,4,NN-guided UCS (calibrated),0,0,1,1161
+3,9,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,10,4,no correction,0,0,1,1
+3,10,4,random correction,0,0,1,300
+3,10,4,NN-guided UCS (raw probs),0,0,1,1161
+3,10,4,NN-guided UCS (calibrated),0,0,1,1161
+3,10,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,11,4,no correction,0,0,1,1
+3,11,4,random correction,0,0,1,300
+3,11,4,NN-guided UCS (raw probs),0,1,0,142
+3,11,4,NN-guided UCS (calibrated),0,1,0,142
+3,11,4,NN-guided UCS (calibrated + unique),0,1,0,261
+3,12,4,no correction,0,0,1,1
+3,12,4,random correction,0,0,1,300
+3,12,4,NN-guided UCS (raw probs),0,1,0,137
+3,12,4,NN-guided UCS (calibrated),0,1,0,137
+3,12,4,NN-guided UCS (calibrated + unique),0,1,0,137
+3,13,4,no correction,0,0,1,1
+3,13,4,random correction,0,0,1,300
+3,13,4,NN-guided UCS (raw probs),0,0,1,1161
+3,13,4,NN-guided UCS (calibrated),0,0,1,1161
+3,13,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,14,4,no correction,0,0,1,1
+3,14,4,random correction,0,0,1,300
+3,14,4,NN-guided UCS (raw probs),0,0,1,1161
+3,14,4,NN-guided UCS (calibrated),0,0,1,1161
+3,14,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,15,4,no correction,0,0,1,1
+3,15,4,random correction,0,0,1,300
+3,15,4,NN-guided UCS (raw probs),0,1,0,28
+3,15,4,NN-guided UCS (calibrated),0,1,0,28
+3,15,4,NN-guided UCS (calibrated + unique),0,1,0,59
+3,16,4,no correction,0,0,1,1
+3,16,4,random correction,0,1,0,158
+3,16,4,NN-guided UCS (raw probs),0,0,1,1161
+3,16,4,NN-guided UCS (calibrated),0,0,1,1161
+3,16,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,17,4,no correction,0,0,1,1
+3,17,4,random correction,0,0,1,300
+3,17,4,NN-guided UCS (raw probs),0,0,1,1161
+3,17,4,NN-guided UCS (calibrated),0,0,1,1161
+3,17,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,18,4,no correction,0,0,1,1
+3,18,4,random correction,0,0,1,300
+3,18,4,NN-guided UCS (raw probs),0,0,1,1161
+3,18,4,NN-guided UCS (calibrated),0,0,1,1161
+3,18,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+3,19,4,no correction,0,0,1,1
+3,19,4,random correction,0,0,1,300
+3,19,4,NN-guided UCS (raw probs),0,0,1,1161
+3,19,4,NN-guided UCS (calibrated),0,0,1,1161
+3,19,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,0,0,no correction,1,0,0,1
+4,0,0,random correction,1,0,0,1
+4,0,0,NN-guided UCS (raw probs),1,0,0,1
+4,0,0,NN-guided UCS (calibrated),1,0,0,1
+4,0,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,1,0,no correction,1,0,0,1
+4,1,0,random correction,1,0,0,1
+4,1,0,NN-guided UCS (raw probs),1,0,0,1
+4,1,0,NN-guided UCS (calibrated),1,0,0,1
+4,1,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,2,0,no correction,1,0,0,1
+4,2,0,random correction,1,0,0,1
+4,2,0,NN-guided UCS (raw probs),1,0,0,1
+4,2,0,NN-guided UCS (calibrated),1,0,0,1
+4,2,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,3,0,no correction,1,0,0,1
+4,3,0,random correction,1,0,0,1
+4,3,0,NN-guided UCS (raw probs),1,0,0,1
+4,3,0,NN-guided UCS (calibrated),1,0,0,1
+4,3,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,4,0,no correction,1,0,0,1
+4,4,0,random correction,1,0,0,1
+4,4,0,NN-guided UCS (raw probs),1,0,0,1
+4,4,0,NN-guided UCS (calibrated),1,0,0,1
+4,4,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,5,0,no correction,1,0,0,1
+4,5,0,random correction,1,0,0,1
+4,5,0,NN-guided UCS (raw probs),1,0,0,1
+4,5,0,NN-guided UCS (calibrated),1,0,0,1
+4,5,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,6,0,no correction,1,0,0,1
+4,6,0,random correction,1,0,0,1
+4,6,0,NN-guided UCS (raw probs),1,0,0,1
+4,6,0,NN-guided UCS (calibrated),1,0,0,1
+4,6,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,7,0,no correction,1,0,0,1
+4,7,0,random correction,1,0,0,1
+4,7,0,NN-guided UCS (raw probs),1,0,0,1
+4,7,0,NN-guided UCS (calibrated),1,0,0,1
+4,7,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,8,0,no correction,1,0,0,1
+4,8,0,random correction,1,0,0,1
+4,8,0,NN-guided UCS (raw probs),1,0,0,1
+4,8,0,NN-guided UCS (calibrated),1,0,0,1
+4,8,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,9,0,no correction,1,0,0,1
+4,9,0,random correction,1,0,0,1
+4,9,0,NN-guided UCS (raw probs),1,0,0,1
+4,9,0,NN-guided UCS (calibrated),1,0,0,1
+4,9,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,10,0,no correction,1,0,0,1
+4,10,0,random correction,1,0,0,1
+4,10,0,NN-guided UCS (raw probs),1,0,0,1
+4,10,0,NN-guided UCS (calibrated),1,0,0,1
+4,10,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,11,0,no correction,1,0,0,1
+4,11,0,random correction,1,0,0,1
+4,11,0,NN-guided UCS (raw probs),1,0,0,1
+4,11,0,NN-guided UCS (calibrated),1,0,0,1
+4,11,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,12,0,no correction,1,0,0,1
+4,12,0,random correction,1,0,0,1
+4,12,0,NN-guided UCS (raw probs),1,0,0,1
+4,12,0,NN-guided UCS (calibrated),1,0,0,1
+4,12,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,13,0,no correction,1,0,0,1
+4,13,0,random correction,1,0,0,1
+4,13,0,NN-guided UCS (raw probs),1,0,0,1
+4,13,0,NN-guided UCS (calibrated),1,0,0,1
+4,13,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,14,0,no correction,1,0,0,1
+4,14,0,random correction,1,0,0,1
+4,14,0,NN-guided UCS (raw probs),1,0,0,1
+4,14,0,NN-guided UCS (calibrated),1,0,0,1
+4,14,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,15,0,no correction,1,0,0,1
+4,15,0,random correction,1,0,0,1
+4,15,0,NN-guided UCS (raw probs),1,0,0,1
+4,15,0,NN-guided UCS (calibrated),1,0,0,1
+4,15,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,16,0,no correction,1,0,0,1
+4,16,0,random correction,1,0,0,1
+4,16,0,NN-guided UCS (raw probs),1,0,0,1
+4,16,0,NN-guided UCS (calibrated),1,0,0,1
+4,16,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,17,0,no correction,1,0,0,1
+4,17,0,random correction,1,0,0,1
+4,17,0,NN-guided UCS (raw probs),1,0,0,1
+4,17,0,NN-guided UCS (calibrated),1,0,0,1
+4,17,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,18,0,no correction,1,0,0,1
+4,18,0,random correction,1,0,0,1
+4,18,0,NN-guided UCS (raw probs),1,0,0,1
+4,18,0,NN-guided UCS (calibrated),1,0,0,1
+4,18,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,19,0,no correction,1,0,0,1
+4,19,0,random correction,1,0,0,1
+4,19,0,NN-guided UCS (raw probs),1,0,0,1
+4,19,0,NN-guided UCS (calibrated),1,0,0,1
+4,19,0,NN-guided UCS (calibrated + unique),1,0,0,1
+4,0,1,no correction,0,0,1,1
+4,0,1,random correction,0,1,0,165
+4,0,1,NN-guided UCS (raw probs),1,0,0,2
+4,0,1,NN-guided UCS (calibrated),1,0,0,2
+4,0,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,1,1,no correction,0,0,1,1
+4,1,1,random correction,0,0,1,300
+4,1,1,NN-guided UCS (raw probs),1,0,0,2
+4,1,1,NN-guided UCS (calibrated),1,0,0,2
+4,1,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,2,1,no correction,0,0,1,1
+4,2,1,random correction,0,0,1,300
+4,2,1,NN-guided UCS (raw probs),1,0,0,2
+4,2,1,NN-guided UCS (calibrated),1,0,0,2
+4,2,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,3,1,no correction,0,0,1,1
+4,3,1,random correction,1,0,0,232
+4,3,1,NN-guided UCS (raw probs),1,0,0,2
+4,3,1,NN-guided UCS (calibrated),1,0,0,2
+4,3,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,4,1,no correction,0,0,1,1
+4,4,1,random correction,1,0,0,48
+4,4,1,NN-guided UCS (raw probs),1,0,0,3
+4,4,1,NN-guided UCS (calibrated),1,0,0,3
+4,4,1,NN-guided UCS (calibrated + unique),1,0,0,3
+4,5,1,no correction,0,0,1,1
+4,5,1,random correction,0,0,1,300
+4,5,1,NN-guided UCS (raw probs),1,0,0,2
+4,5,1,NN-guided UCS (calibrated),1,0,0,2
+4,5,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,6,1,no correction,0,0,1,1
+4,6,1,random correction,0,0,1,300
+4,6,1,NN-guided UCS (raw probs),1,0,0,11
+4,6,1,NN-guided UCS (calibrated),1,0,0,11
+4,6,1,NN-guided UCS (calibrated + unique),1,0,0,11
+4,7,1,no correction,0,0,1,1
+4,7,1,random correction,0,1,0,60
+4,7,1,NN-guided UCS (raw probs),1,0,0,27
+4,7,1,NN-guided UCS (calibrated),1,0,0,27
+4,7,1,NN-guided UCS (calibrated + unique),1,0,0,27
+4,8,1,no correction,0,0,1,1
+4,8,1,random correction,0,1,0,161
+4,8,1,NN-guided UCS (raw probs),1,0,0,5
+4,8,1,NN-guided UCS (calibrated),1,0,0,5
+4,8,1,NN-guided UCS (calibrated + unique),1,0,0,5
+4,9,1,no correction,0,0,1,1
+4,9,1,random correction,0,0,1,300
+4,9,1,NN-guided UCS (raw probs),1,0,0,3
+4,9,1,NN-guided UCS (calibrated),1,0,0,3
+4,9,1,NN-guided UCS (calibrated + unique),1,0,0,3
+4,10,1,no correction,0,0,1,1
+4,10,1,random correction,0,1,0,151
+4,10,1,NN-guided UCS (raw probs),1,0,0,2
+4,10,1,NN-guided UCS (calibrated),1,0,0,2
+4,10,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,11,1,no correction,0,0,1,1
+4,11,1,random correction,0,0,1,300
+4,11,1,NN-guided UCS (raw probs),1,0,0,2
+4,11,1,NN-guided UCS (calibrated),1,0,0,2
+4,11,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,12,1,no correction,0,0,1,1
+4,12,1,random correction,0,1,0,90
+4,12,1,NN-guided UCS (raw probs),1,0,0,2
+4,12,1,NN-guided UCS (calibrated),1,0,0,2
+4,12,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,13,1,no correction,0,0,1,1
+4,13,1,random correction,0,0,1,300
+4,13,1,NN-guided UCS (raw probs),1,0,0,3
+4,13,1,NN-guided UCS (calibrated),1,0,0,3
+4,13,1,NN-guided UCS (calibrated + unique),1,0,0,3
+4,14,1,no correction,0,1,0,1
+4,14,1,random correction,0,1,0,1
+4,14,1,NN-guided UCS (raw probs),0,1,0,1
+4,14,1,NN-guided UCS (calibrated),0,1,0,1
+4,14,1,NN-guided UCS (calibrated + unique),0,1,0,13
+4,15,1,no correction,0,0,1,1
+4,15,1,random correction,1,0,0,158
+4,15,1,NN-guided UCS (raw probs),1,0,0,2
+4,15,1,NN-guided UCS (calibrated),1,0,0,2
+4,15,1,NN-guided UCS (calibrated + unique),1,0,0,2
+4,16,1,no correction,0,0,1,1
+4,16,1,random correction,0,1,0,84
+4,16,1,NN-guided UCS (raw probs),1,0,0,15
+4,16,1,NN-guided UCS (calibrated),1,0,0,15
+4,16,1,NN-guided UCS (calibrated + unique),1,0,0,15
+4,17,1,no correction,0,0,1,1
+4,17,1,random correction,1,0,0,198
+4,17,1,NN-guided UCS (raw probs),1,0,0,13
+4,17,1,NN-guided UCS (calibrated),1,0,0,13
+4,17,1,NN-guided UCS (calibrated + unique),1,0,0,13
+4,18,1,no correction,0,0,1,1
+4,18,1,random correction,0,1,0,27
+4,18,1,NN-guided UCS (raw probs),1,0,0,3
+4,18,1,NN-guided UCS (calibrated),1,0,0,3
+4,18,1,NN-guided UCS (calibrated + unique),1,0,0,3
+4,19,1,no correction,0,0,1,1
+4,19,1,random correction,1,0,0,186
+4,19,1,NN-guided UCS (raw probs),1,0,0,4
+4,19,1,NN-guided UCS (calibrated),1,0,0,4
+4,19,1,NN-guided UCS (calibrated + unique),1,0,0,4
+4,0,2,no correction,0,0,1,1
+4,0,2,random correction,0,0,1,300
+4,0,2,NN-guided UCS (raw probs),1,0,0,21
+4,0,2,NN-guided UCS (calibrated),1,0,0,21
+4,0,2,NN-guided UCS (calibrated + unique),1,0,0,21
+4,1,2,no correction,0,0,1,1
+4,1,2,random correction,0,1,0,108
+4,1,2,NN-guided UCS (raw probs),0,1,0,2
+4,1,2,NN-guided UCS (calibrated),0,1,0,2
+4,1,2,NN-guided UCS (calibrated + unique),1,0,0,6
+4,2,2,no correction,0,0,1,1
+4,2,2,random correction,0,0,1,300
+4,2,2,NN-guided UCS (raw probs),1,0,0,5
+4,2,2,NN-guided UCS (calibrated),1,0,0,5
+4,2,2,NN-guided UCS (calibrated + unique),1,0,0,5
+4,3,2,no correction,0,0,1,1
+4,3,2,random correction,0,0,1,300
+4,3,2,NN-guided UCS (raw probs),1,0,0,19
+4,3,2,NN-guided UCS (calibrated),1,0,0,19
+4,3,2,NN-guided UCS (calibrated + unique),1,0,0,19
+4,4,2,no correction,0,0,1,1
+4,4,2,random correction,0,1,0,69
+4,4,2,NN-guided UCS (raw probs),0,1,0,2
+4,4,2,NN-guided UCS (calibrated),0,1,0,2
+4,4,2,NN-guided UCS (calibrated + unique),1,0,0,9
+4,5,2,no correction,0,0,1,1
+4,5,2,random correction,0,0,1,300
+4,5,2,NN-guided UCS (raw probs),1,0,0,5
+4,5,2,NN-guided UCS (calibrated),1,0,0,5
+4,5,2,NN-guided UCS (calibrated + unique),1,0,0,5
+4,6,2,no correction,0,0,1,1
+4,6,2,random correction,0,0,1,300
+4,6,2,NN-guided UCS (raw probs),0,1,0,5
+4,6,2,NN-guided UCS (calibrated),0,1,0,5
+4,6,2,NN-guided UCS (calibrated + unique),0,1,0,5
+4,7,2,no correction,0,0,1,1
+4,7,2,random correction,0,0,1,300
+4,7,2,NN-guided UCS (raw probs),1,0,0,6
+4,7,2,NN-guided UCS (calibrated),1,0,0,6
+4,7,2,NN-guided UCS (calibrated + unique),1,0,0,6
+4,8,2,no correction,0,0,1,1
+4,8,2,random correction,0,0,1,300
+4,8,2,NN-guided UCS (raw probs),1,0,0,37
+4,8,2,NN-guided UCS (calibrated),1,0,0,37
+4,8,2,NN-guided UCS (calibrated + unique),1,0,0,37
+4,9,2,no correction,0,0,1,1
+4,9,2,random correction,0,1,0,6
+4,9,2,NN-guided UCS (raw probs),0,1,0,2
+4,9,2,NN-guided UCS (calibrated),0,1,0,2
+4,9,2,NN-guided UCS (calibrated + unique),1,0,0,4
+4,10,2,no correction,0,0,1,1
+4,10,2,random correction,0,0,1,300
+4,10,2,NN-guided UCS (raw probs),1,0,0,38
+4,10,2,NN-guided UCS (calibrated),1,0,0,38
+4,10,2,NN-guided UCS (calibrated + unique),1,0,0,38
+4,11,2,no correction,0,0,1,1
+4,11,2,random correction,0,1,0,3
+4,11,2,NN-guided UCS (raw probs),0,1,0,2
+4,11,2,NN-guided UCS (calibrated),0,1,0,2
+4,11,2,NN-guided UCS (calibrated + unique),0,1,0,11
+4,12,2,no correction,0,0,1,1
+4,12,2,random correction,0,0,1,300
+4,12,2,NN-guided UCS (raw probs),0,1,0,7
+4,12,2,NN-guided UCS (calibrated),0,1,0,7
+4,12,2,NN-guided UCS (calibrated + unique),0,1,0,7
+4,13,2,no correction,0,0,1,1
+4,13,2,random correction,0,0,1,300
+4,13,2,NN-guided UCS (raw probs),0,0,1,1161
+4,13,2,NN-guided UCS (calibrated),0,0,1,1161
+4,13,2,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,14,2,no correction,0,0,1,1
+4,14,2,random correction,0,0,1,300
+4,14,2,NN-guided UCS (raw probs),1,0,0,63
+4,14,2,NN-guided UCS (calibrated),1,0,0,63
+4,14,2,NN-guided UCS (calibrated + unique),1,0,0,63
+4,15,2,no correction,0,0,1,1
+4,15,2,random correction,0,0,1,300
+4,15,2,NN-guided UCS (raw probs),0,1,0,2
+4,15,2,NN-guided UCS (calibrated),0,1,0,2
+4,15,2,NN-guided UCS (calibrated + unique),1,0,0,7
+4,16,2,no correction,0,0,1,1
+4,16,2,random correction,0,1,0,90
+4,16,2,NN-guided UCS (raw probs),0,1,0,4
+4,16,2,NN-guided UCS (calibrated),0,1,0,4
+4,16,2,NN-guided UCS (calibrated + unique),1,0,0,14
+4,17,2,no correction,0,0,1,1
+4,17,2,random correction,0,0,1,300
+4,17,2,NN-guided UCS (raw probs),1,0,0,12
+4,17,2,NN-guided UCS (calibrated),1,0,0,12
+4,17,2,NN-guided UCS (calibrated + unique),1,0,0,12
+4,18,2,no correction,0,0,1,1
+4,18,2,random correction,0,0,1,300
+4,18,2,NN-guided UCS (raw probs),1,0,0,10
+4,18,2,NN-guided UCS (calibrated),1,0,0,10
+4,18,2,NN-guided UCS (calibrated + unique),1,0,0,10
+4,19,2,no correction,0,0,1,1
+4,19,2,random correction,0,0,1,300
+4,19,2,NN-guided UCS (raw probs),1,0,0,95
+4,19,2,NN-guided UCS (calibrated),1,0,0,95
+4,19,2,NN-guided UCS (calibrated + unique),1,0,0,95
+4,0,3,no correction,0,0,1,1
+4,0,3,random correction,0,0,1,300
+4,0,3,NN-guided UCS (raw probs),1,0,0,11
+4,0,3,NN-guided UCS (calibrated),1,0,0,11
+4,0,3,NN-guided UCS (calibrated + unique),1,0,0,11
+4,1,3,no correction,0,0,1,1
+4,1,3,random correction,0,0,1,300
+4,1,3,NN-guided UCS (raw probs),0,1,0,24
+4,1,3,NN-guided UCS (calibrated),0,1,0,24
+4,1,3,NN-guided UCS (calibrated + unique),0,1,0,24
+4,2,3,no correction,0,0,1,1
+4,2,3,random correction,0,0,1,300
+4,2,3,NN-guided UCS (raw probs),1,0,0,31
+4,2,3,NN-guided UCS (calibrated),1,0,0,31
+4,2,3,NN-guided UCS (calibrated + unique),1,0,0,31
+4,3,3,no correction,0,0,1,1
+4,3,3,random correction,0,0,1,300
+4,3,3,NN-guided UCS (raw probs),0,1,0,4
+4,3,3,NN-guided UCS (calibrated),0,1,0,4
+4,3,3,NN-guided UCS (calibrated + unique),1,0,0,17
+4,4,3,no correction,0,0,1,1
+4,4,3,random correction,0,0,1,300
+4,4,3,NN-guided UCS (raw probs),0,1,0,33
+4,4,3,NN-guided UCS (calibrated),0,1,0,33
+4,4,3,NN-guided UCS (calibrated + unique),1,0,0,229
+4,5,3,no correction,0,0,1,1
+4,5,3,random correction,0,0,1,300
+4,5,3,NN-guided UCS (raw probs),1,0,0,9
+4,5,3,NN-guided UCS (calibrated),1,0,0,9
+4,5,3,NN-guided UCS (calibrated + unique),1,0,0,9
+4,6,3,no correction,0,0,1,1
+4,6,3,random correction,0,0,1,300
+4,6,3,NN-guided UCS (raw probs),0,1,0,12
+4,6,3,NN-guided UCS (calibrated),0,1,0,12
+4,6,3,NN-guided UCS (calibrated + unique),1,0,0,13
+4,7,3,no correction,0,0,1,1
+4,7,3,random correction,0,0,1,300
+4,7,3,NN-guided UCS (raw probs),0,1,0,29
+4,7,3,NN-guided UCS (calibrated),0,1,0,29
+4,7,3,NN-guided UCS (calibrated + unique),1,0,0,300
+4,8,3,no correction,0,0,1,1
+4,8,3,random correction,0,0,1,300
+4,8,3,NN-guided UCS (raw probs),0,1,0,15
+4,8,3,NN-guided UCS (calibrated),0,1,0,15
+4,8,3,NN-guided UCS (calibrated + unique),1,0,0,34
+4,9,3,no correction,0,0,1,1
+4,9,3,random correction,0,0,1,300
+4,9,3,NN-guided UCS (raw probs),0,1,0,48
+4,9,3,NN-guided UCS (calibrated),0,1,0,48
+4,9,3,NN-guided UCS (calibrated + unique),0,1,0,48
+4,10,3,no correction,0,0,1,1
+4,10,3,random correction,0,0,1,300
+4,10,3,NN-guided UCS (raw probs),0,1,0,4
+4,10,3,NN-guided UCS (calibrated),0,1,0,4
+4,10,3,NN-guided UCS (calibrated + unique),0,1,0,4
+4,11,3,no correction,0,0,1,1
+4,11,3,random correction,0,0,1,300
+4,11,3,NN-guided UCS (raw probs),1,0,0,8
+4,11,3,NN-guided UCS (calibrated),1,0,0,8
+4,11,3,NN-guided UCS (calibrated + unique),1,0,0,8
+4,12,3,no correction,0,0,1,1
+4,12,3,random correction,0,0,1,300
+4,12,3,NN-guided UCS (raw probs),1,0,0,69
+4,12,3,NN-guided UCS (calibrated),1,0,0,69
+4,12,3,NN-guided UCS (calibrated + unique),1,0,0,69
+4,13,3,no correction,0,0,1,1
+4,13,3,random correction,0,0,1,300
+4,13,3,NN-guided UCS (raw probs),1,0,0,62
+4,13,3,NN-guided UCS (calibrated),1,0,0,62
+4,13,3,NN-guided UCS (calibrated + unique),1,0,0,62
+4,14,3,no correction,0,0,1,1
+4,14,3,random correction,0,0,1,300
+4,14,3,NN-guided UCS (raw probs),1,0,0,249
+4,14,3,NN-guided UCS (calibrated),1,0,0,249
+4,14,3,NN-guided UCS (calibrated + unique),1,0,0,249
+4,15,3,no correction,0,0,1,1
+4,15,3,random correction,0,0,1,300
+4,15,3,NN-guided UCS (raw probs),1,0,0,15
+4,15,3,NN-guided UCS (calibrated),1,0,0,15
+4,15,3,NN-guided UCS (calibrated + unique),1,0,0,15
+4,16,3,no correction,0,0,1,1
+4,16,3,random correction,0,0,1,300
+4,16,3,NN-guided UCS (raw probs),1,0,0,12
+4,16,3,NN-guided UCS (calibrated),1,0,0,12
+4,16,3,NN-guided UCS (calibrated + unique),1,0,0,12
+4,17,3,no correction,0,0,1,1
+4,17,3,random correction,0,0,1,300
+4,17,3,NN-guided UCS (raw probs),1,0,0,46
+4,17,3,NN-guided UCS (calibrated),1,0,0,46
+4,17,3,NN-guided UCS (calibrated + unique),1,0,0,46
+4,18,3,no correction,0,0,1,1
+4,18,3,random correction,0,0,1,300
+4,18,3,NN-guided UCS (raw probs),1,0,0,29
+4,18,3,NN-guided UCS (calibrated),1,0,0,29
+4,18,3,NN-guided UCS (calibrated + unique),1,0,0,29
+4,19,3,no correction,0,0,1,1
+4,19,3,random correction,0,0,1,300
+4,19,3,NN-guided UCS (raw probs),1,0,0,16
+4,19,3,NN-guided UCS (calibrated),1,0,0,16
+4,19,3,NN-guided UCS (calibrated + unique),1,0,0,16
+4,0,4,no correction,0,0,1,1
+4,0,4,random correction,0,0,1,300
+4,0,4,NN-guided UCS (raw probs),0,0,1,1161
+4,0,4,NN-guided UCS (calibrated),0,0,1,1161
+4,0,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,1,4,no correction,0,0,1,1
+4,1,4,random correction,0,0,1,300
+4,1,4,NN-guided UCS (raw probs),0,1,0,352
+4,1,4,NN-guided UCS (calibrated),0,1,0,352
+4,1,4,NN-guided UCS (calibrated + unique),0,1,0,576
+4,2,4,no correction,0,0,1,1
+4,2,4,random correction,0,0,1,300
+4,2,4,NN-guided UCS (raw probs),0,1,0,20
+4,2,4,NN-guided UCS (calibrated),0,1,0,20
+4,2,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,3,4,no correction,0,0,1,1
+4,3,4,random correction,0,0,1,300
+4,3,4,NN-guided UCS (raw probs),0,0,1,1161
+4,3,4,NN-guided UCS (calibrated),0,0,1,1161
+4,3,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,4,4,no correction,0,0,1,1
+4,4,4,random correction,0,0,1,300
+4,4,4,NN-guided UCS (raw probs),0,0,1,1161
+4,4,4,NN-guided UCS (calibrated),0,0,1,1161
+4,4,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,5,4,no correction,0,0,1,1
+4,5,4,random correction,0,0,1,300
+4,5,4,NN-guided UCS (raw probs),0,1,0,35
+4,5,4,NN-guided UCS (calibrated),0,1,0,35
+4,5,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,6,4,no correction,0,0,1,1
+4,6,4,random correction,0,0,1,300
+4,6,4,NN-guided UCS (raw probs),0,1,0,72
+4,6,4,NN-guided UCS (calibrated),0,1,0,72
+4,6,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,7,4,no correction,0,0,1,1
+4,7,4,random correction,0,0,1,300
+4,7,4,NN-guided UCS (raw probs),0,0,1,1161
+4,7,4,NN-guided UCS (calibrated),0,0,1,1161
+4,7,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,8,4,no correction,0,0,1,1
+4,8,4,random correction,0,1,0,260
+4,8,4,NN-guided UCS (raw probs),0,1,0,155
+4,8,4,NN-guided UCS (calibrated),0,1,0,155
+4,8,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,9,4,no correction,0,0,1,1
+4,9,4,random correction,0,0,1,300
+4,9,4,NN-guided UCS (raw probs),0,0,1,1161
+4,9,4,NN-guided UCS (calibrated),0,0,1,1161
+4,9,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,10,4,no correction,0,0,1,1
+4,10,4,random correction,0,0,1,300
+4,10,4,NN-guided UCS (raw probs),0,0,1,1161
+4,10,4,NN-guided UCS (calibrated),0,0,1,1161
+4,10,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,11,4,no correction,0,0,1,1
+4,11,4,random correction,0,0,1,300
+4,11,4,NN-guided UCS (raw probs),0,0,1,1161
+4,11,4,NN-guided UCS (calibrated),0,0,1,1161
+4,11,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,12,4,no correction,0,0,1,1
+4,12,4,random correction,0,0,1,300
+4,12,4,NN-guided UCS (raw probs),0,0,1,1161
+4,12,4,NN-guided UCS (calibrated),0,0,1,1161
+4,12,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,13,4,no correction,0,0,1,1
+4,13,4,random correction,0,0,1,300
+4,13,4,NN-guided UCS (raw probs),0,0,1,1161
+4,13,4,NN-guided UCS (calibrated),0,0,1,1161
+4,13,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,14,4,no correction,0,0,1,1
+4,14,4,random correction,0,0,1,300
+4,14,4,NN-guided UCS (raw probs),0,1,0,180
+4,14,4,NN-guided UCS (calibrated),0,1,0,180
+4,14,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,15,4,no correction,0,0,1,1
+4,15,4,random correction,0,0,1,300
+4,15,4,NN-guided UCS (raw probs),0,0,1,1161
+4,15,4,NN-guided UCS (calibrated),0,0,1,1161
+4,15,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,16,4,no correction,0,0,1,1
+4,16,4,random correction,0,0,1,300
+4,16,4,NN-guided UCS (raw probs),0,0,1,1161
+4,16,4,NN-guided UCS (calibrated),0,0,1,1161
+4,16,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,17,4,no correction,0,0,1,1
+4,17,4,random correction,0,0,1,300
+4,17,4,NN-guided UCS (raw probs),0,1,0,239
+4,17,4,NN-guided UCS (calibrated),0,1,0,239
+4,17,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,18,4,no correction,0,0,1,1
+4,18,4,random correction,0,0,1,300
+4,18,4,NN-guided UCS (raw probs),0,1,0,26
+4,18,4,NN-guided UCS (calibrated),0,1,0,26
+4,18,4,NN-guided UCS (calibrated + unique),0,0,1,1161
+4,19,4,no correction,0,0,1,1
+4,19,4,random correction,0,0,1,300
+4,19,4,NN-guided UCS (raw probs),0,0,1,1161
+4,19,4,NN-guided UCS (calibrated),0,0,1,1161
+4,19,4,NN-guided UCS (calibrated + unique),0,0,1,1161

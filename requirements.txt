@@ -1,0 +1,4 @@
+# Tested with Python 3.12.3 (Python >= 3.11 required by these numpy/matplotlib versions)
+numpy==2.4.4
+matplotlib==3.10.8
+pytest==9.2.0

@@ -1,0 +1,26 @@
+{
+  "logreg_raw": {
+    "test_accuracy": 0.9227272727272727,
+    "test_ece": 0.020448282520567435,
+    "test_nll": 0.27128489074621515,
+    "temperature": 1.0
+  },
+  "logreg_tempscaled": {
+    "test_accuracy": 0.9227272727272727,
+    "test_ece": 0.012950654094867545,
+    "test_nll": 0.2708321484365112,
+    "temperature": 0.9405466474722025
+  },
+  "mlp_raw": {
+    "test_accuracy": 0.9791574279379157,
+    "test_ece": 0.0071395938232000225,
+    "test_nll": 0.07434558556362651,
+    "temperature": 1.0
+  },
+  "mlp_tempscaled": {
+    "test_accuracy": 0.9791574279379157,
+    "test_ece": 0.0022111209842596564,
+    "test_nll": 0.06850464606601196,
+    "temperature": 1.3462999529911575
+  }
+}
